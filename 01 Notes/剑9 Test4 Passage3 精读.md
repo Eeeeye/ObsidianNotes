@@ -28,72 +28,72 @@ tags:
 
 ## 生词和短语
 
-| 词 / 短语 | 常用义 | 本文义 | 音标 | 备注 |
-| --- | --- | --- | --- | --- |
-| steer a narrow course | 在两难之间谨慎拿捏；小心走中间路线 | 在多种矛盾目标之间小心平衡 | /stɪə(r) ə ˈnærəʊ kɔːs/ | 常用于描述需要在冲突目标之间掌舵前进 |
-| intended for | 为……准备的；供……使用的；面向……的 | 面向某类观众或使用对象而设计 | /ɪnˈtendɪd fɔː(r)/ | 题目里常用来问对象、用途或目标受众 |
-| minority | 少数；少数群体 | 少数人；非主流的一小部分人 | /maɪˈnɒrəti/ | 本文里通常不是指数学意义的少数，而是和多数公众相对的群体 |
-| durable | 耐用的；持久的 | 持续存在的；不容易消失的 | /ˈdjʊərəbl/ | 本文更偏抽象义，不一定指“结实耐用”的实物 |
-| conviction | 坚信；信念 | 一种根深蒂固的看法 | /kənˈvɪkʃən/ | 本文强调对博物馆实物真实性的信念 |
-| historical relics | 历史遗物；历史遗迹 | 历史留下来的实物遗存 | /hɪˈstɒrɪkəl ˈrelɪks/ | 和 museum objects 语境接近 |
-| infallible testimony | 不会出错的证据；绝对可靠的证明 | 毫无疑问的历史证据 | /ɪnˈfæləbəl ˈtestɪməni/ | 本文是在质疑这种看法 |
-| objective | 客观的 | 不带主观判断的 | /əbˈdʒektɪv/ | 常和 value-free 连用 |
-| value-free | 不带价值判断的 | 被认为中立无偏见的 | /ˌvæljuː ˈfriː/ | 学术语境常见 |
-| evident | 明显的；清楚的 | 已经很清楚 | /ˈevɪdənt/ | 常见句型 `it is evident that` |
-| artefacts | 人工制品；手工艺品 | 博物馆中的历史实物 | /ˈɑːtɪfækts/ | 英式拼写 |
-| altered | 改变的；修改过的 | 被人为改动的 | /ˈɔːltəd/ | 本文强调历史呈现会被改写 |
-| chronicles | 编年史；历史记录 | 文字性的历史记载 | /ˈkrɒnɪklz/ | 和 artefacts 对比 |
-| veracity | 真实性；真实 | 可信度；真实性 | /vəˈræsəti/ | 偏正式词 |
-| tangible | 可触摸的；有形的 | 看得见摸得着的实物 | /ˈtændʒəbl/ | 和抽象证据相对 |
-| ipso facto | 事实本身即如此；因此 | 因其是实物便被默认真实 | /ˌɪpsəʊ ˈfæktəʊ/ | 拉丁语短语 |
-| subtle | 微妙的；不明显的 | 细微的 | /ˈsʌtl/ | `subtle differences` 很常见 |
-| accompanying | 附带的；伴随的 | 随展品附上的 | /əˈkʌmpəniɪŋ/ | 这里指 accompanying information |
-| lay | 外行的；非专业的 | 非专业普通观众的 | /leɪ/ | `lay visitor` 不是“躺着的” |
-| exclusive | 独有的；排他的 | 只属于某一类人的 | /ɪkˈskluːsɪv/ | 本文指研究者垄断 |
-| approach | 方法；方式 | 展示历史的做法 | /əˈprəʊtʃ/ | B 段关键词 |
-| emerged | 出现；显现 | 形成并发展起来 | /ɪˈmɜːdʒd/ | 常用于趋势出现 |
-| prototype | 原型；典范 | 可供后来模仿的样板 | /ˈprəʊtətaɪp/ | 本文不是技术原型，更像范例 |
-| re-enactment | 再现；重演 | 对历史事件的现场再现 | /ˌriː ɪˈnæktmənt/ | heritage 语境高频 |
-| so-called | 所谓的 | 被称作……的 | /ˌsəʊ ˈkɔːld/ | 常带一点距离感 |
-| criticize | 批评；指责 | 被批评为 | /ˈkrɪtɪsaɪz/ | 注意英式拼写词族 |
-| intolerable | 无法容忍的 | 令人无法接受的 | /ɪnˈtɒlərəbl/ | 语气强 |
-| vulgarisation | 庸俗化；通俗化 | 把历史过度娱乐化、低俗化 | /ˌvʌlɡəraɪˈzeɪʃən/ | 英式拼写 |
-| share this opinion | 持有同样观点 | 认同这种批评看法 | /ʃeə(r) ðɪs əˈpɪnjən/ | 题目定位常见表达 |
-| evaporating | 蒸发；消失 | 逐渐消失、模糊掉 | /ɪˈvæpəreɪtɪŋ/ | 用来形容界限消失 |
-| relevant | 相关的 | 合适且有用的 | /ˈreləvənt/ | `a relevant tool` |
-| authenticity | 真实性 | 更接近真实历史的特征 | /ˌɔːθenˈtɪsəti/ | C 段核心词 |
-| cages | 笼子 | 动物笼舍 | /keɪdʒɪz/ | zoo 语境 |
-| enormous | 巨大的 | 非常大的 | /ɪˈnɔːməs/ | 程度词 |
-| undergoing | 正在经历；遭受 | 正在发生变化 | /ˌʌndəˈɡəʊɪŋ/ | D 段趋势词 |
-| assets | 资产；优势资源 | 本来就具备的历史资源 | /ˈæsets/ | 本文不是财务资产义 |
-| attractively | 有吸引力地 | 以更吸引观众的方式 | /əˈtræktɪvli/ | 和 evidence 对照 |
-| increasingly altered | 越来越被改动 | 为了显得真实而不断被改写 | /ɪnˈkriːsɪŋli ˈɔːltəd/ | E 段关键判断 |
-| depicted | 描绘；描写 | 被塑造成某种样子 | /dɪˈpɪktɪd/ | 常见于人物或场景呈现 |
-| Indonesian | 印度尼西亚的；印尼人 | 印尼式的 | /ˌɪndəˈniːʒən/ | 专有形容词 |
-| perceptions | 看法；认知 | 公众对历史形象的认知 | /pəˈsepʃənz/ | 本文多次出现 |
-| contemporary | 当代的；同时代的 | 当代社会的 | /kənˈtempərəri/ | `contemporary perceptions` |
-| ancestors | 祖先；先人 | 人类祖先 | /ˈænsestəz/ | 常用于历史和演化语境 |
-| misconceptions | 误解；错误观念 | 不准确的先入之见 | /ˌmɪskənˈsepʃənz/ | 常和 prejudice 并列 |
-| prejudices | 偏见；成见 | 预设偏见 | /ˈpredʒədɪsɪz/ | 负面色彩明显 |
-| bias | 偏见；偏向 | 呈现历史时的偏差 | /ˈbaɪəs/ | 贯穿全文的重要概念 |
-| inevitable | 不可避免的 | 无法完全消除的 | /ɪnˈevɪtəbl/ | F 段开头判断句 |
-| transitory | 短暂的；暂时的 | 容易消失、不易保存的 | /ˈtrænsətəri/ | 修饰 materials |
-| survive the historical process | 经受住历史进程而留存下来 | 在历史淘汰中被保留下来 | /səˈvaɪv ðə hɪˈstɒrɪkəl ˈprəʊses/ | F 段核心表达 |
-| palaces | 宫殿 | 宫殿建筑 | /ˈpælɪsɪz/ | 和 ordinary dwellings 对照 |
-| cathedrals | 大教堂 | 大教堂建筑 | /kəˈθiːdrəlz/ | 宗教建筑词 |
-| dwellings | 住处；住宅 | 普通人的居所 | /ˈdwelɪŋz/ | 比 house 更正式 |
-| furnishings | 家具陈设 | 室内陈设 | /ˈfɜːnɪʃɪŋz/ | 常用复数 |
-| premises | 场所；房屋及附属区域 | 房屋内部及其空间 | /ˈpremɪsɪz/ | 这里不是“前提” |
-| was occupied by | 居住着；被占据 | 有……人口居住 | /wɒz ˈɒkjupaɪd baɪ/ | 这里不是“被占领” |
-| inhabitants | 居民 | 常住人口 | /ɪnˈhæbɪtənts/ | 正式表达 |
-| circumstances | 环境；处境 | 生活条件 | /ˈsɜːkəmstænsɪz/ | 常用复数 |
-| period rooms | 时代陈列室 | 按某个历史时期复原的房间 | /ˈpɪəriəd ruːmz/ | 博物馆语境常见 |
-| era | 时代 | 那个时代 | /ˈɪərə/ | 正式书面词 |
-| no wonder | 难怪 | 难怪会这样 | /nəʊ ˈwʌndə(r)/ | 固定表达 |
-| stroll | 漫步；闲逛 | 随意逛展 | /strəʊl/ | 语气轻松 |
-| nostalgia | 怀旧；怀念 | 对过去生活的美化怀念 | /nɒˈstældʒə/ | F 段情感词 |
-| indicates | 表明；显示 | 让人感觉、暗示 | /ˈɪndɪkeɪts/ | 本文有“证据显示”的语感 |
-| induced | 引起；导致 | 被博物馆叙事诱发出来 | /ɪnˈdjuːst/ | 常用于抽象结果 |
+| 词 / 短语                         | 常用义                 | 本文义            | 音标                                | 备注                           |
+| ------------------------------ | ------------------- | -------------- | --------------------------------- | ---------------------------- |
+| steer a narrow course          | 在两难之间谨慎拿捏；小心走中间路线   | 在多种矛盾目标之间小心平衡  | /stɪə(r) ə ˈnærəʊ kɔːs/           | 常用于描述需要在冲突目标之间掌舵前进           |
+| intended for                   | 为……准备的；供……使用的；面向……的 | 面向某类观众或使用对象而设计 | /ɪnˈtendɪd fɔː(r)/                | 题目里常用来问对象、用途或目标受众            |
+| minority                       | 少数；少数群体             | 少数人；非主流的一小部分人  | /maɪˈnɒrəti/                      | 本文里通常不是指数学意义的少数，而是和多数公众相对的群体 |
+| durable                        | 耐用的；持久的             | 持续存在的；不容易消失的   | /ˈdjʊərəbl/                       | 本文更偏抽象义，不一定指“结实耐用”的实物        |
+| conviction                     | 坚信；信念               | 一种根深蒂固的看法      | /kənˈvɪkʃən/                      | 本文强调对博物馆实物真实性的信念             |
+| historical relics              | 历史遗物；历史遗迹           | 历史留下来的实物遗存     | /hɪˈstɒrɪkəl ˈrelɪks/             | 和 museum objects 语境接近        |
+| infallible testimony           | 不会出错的证据；绝对可靠的证明     | 毫无疑问的历史证据      | /ɪnˈfæləbəl ˈtestɪməni/           | 本文是在质疑这种看法                   |
+| objective                      | 客观的                 | 不带主观判断的        | /əbˈdʒektɪv/                      | 常和 value-free 连用             |
+| value-free                     | 不带价值判断的             | 被认为中立无偏见的      | /ˌvæljuː ˈfriː/                   | 学术语境常见                       |
+| evident                        | 明显的；清楚的             | 已经很清楚          | /ˈevɪdənt/                        | 常见句型 `it is evident that`    |
+| artefacts                      | 人工制品；手工艺品           | 博物馆中的历史实物      | /ˈɑːtɪfækts/                      | 英式拼写                         |
+| altered                        | 改变的；修改过的            | 被人为改动的         | /ˈɔːltəd/                         | 本文强调历史呈现会被改写                 |
+| chronicles                     | 编年史；历史记录            | 文字性的历史记载       | /ˈkrɒnɪklz/                       | 和 artefacts 对比               |
+| veracity                       | 真实性；真实              | 可信度；真实性        | /vəˈræsəti/                       | 偏正式词                         |
+| tangible                       | 可触摸的；有形的            | 看得见摸得着的实物      | /ˈtændʒəbl/                       | 和抽象证据相对                      |
+| ipso facto                     | 事实本身即如此；因此          | 因其是实物便被默认真实    | /ˌɪpsəʊ ˈfæktəʊ/                  | 拉丁语短语                        |
+| subtle                         | 微妙的；不明显的            | 细微的            | /ˈsʌtl/                           | `subtle differences` 很常见     |
+| accompanying                   | 附带的；伴随的             | 随展品附上的         | /əˈkʌmpəniɪŋ/                     | 这里指 accompanying information |
+| lay                            | 外行的；非专业的            | 非专业普通观众的       | /leɪ/                             | `lay visitor` 不是“躺着的”        |
+| exclusive                      | 独有的；排他的             | 只属于某一类人的       | /ɪkˈskluːsɪv/                     | 本文指研究者垄断                     |
+| approach                       | 方法；方式               | 展示历史的做法        | /əˈprəʊtʃ/                        | B 段关键词                       |
+| emerged                        | 出现；显现               | 形成并发展起来        | /ɪˈmɜːdʒd/                        | 常用于趋势出现                      |
+| prototype                      | 原型；典范               | 可供后来模仿的样板      | /ˈprəʊtətaɪp/                     | 本文不是技术原型，更像范例                |
+| re-enactment                   | 再现；重演               | 对历史事件的现场再现     | /ˌriː ɪˈnæktmənt/                 | heritage 语境高频                |
+| so-called                      | 所谓的                 | 被称作……的         | /ˌsəʊ ˈkɔːld/                     | 常带一点距离感                      |
+| criticize                      | 批评；指责               | 被批评为           | /ˈkrɪtɪsaɪz/                      | 注意英式拼写词族                     |
+| intolerable                    | 无法容忍的               | 令人无法接受的        | /ɪnˈtɒlərəbl/                     | 语气强                          |
+| vulgarisation                  | 庸俗化；通俗化             | 把历史过度娱乐化、低俗化   | /ˌvʌlɡəraɪˈzeɪʃən/                | 英式拼写                         |
+| share this opinion             | 持有同样观点              | 认同这种批评看法       | /ʃeə(r) ðɪs əˈpɪnjən/             | 题目定位常见表达                     |
+| evaporating                    | 蒸发；消失               | 逐渐消失、模糊掉       | /ɪˈvæpəreɪtɪŋ/                    | 用来形容界限消失                     |
+| relevant                       | 相关的                 | 合适且有用的         | /ˈreləvənt/                       | `a relevant tool`            |
+| authenticity                   | 真实性                 | 更接近真实历史的特征     | /ˌɔːθenˈtɪsəti/                   | C 段核心词                       |
+| cages                          | 笼子                  | 动物笼舍           | /keɪdʒɪz/                         | zoo 语境                       |
+| enormous                       | 巨大的                 | 非常大的           | /ɪˈnɔːməs/                        | 程度词                          |
+| undergoing                     | 正在经历；遭受             | 正在发生变化         | /ˌʌndəˈɡəʊɪŋ/                     | D 段趋势词                       |
+| assets                         | 资产；优势资源             | 本来就具备的历史资源     | /ˈæsets/                          | 本文不是财务资产义                    |
+| attractively                   | 有吸引力地               | 以更吸引观众的方式      | /əˈtræktɪvli/                     | 和 evidence 对照                |
+| increasingly altered           | 越来越被改动              | 为了显得真实而不断被改写   | /ɪnˈkriːsɪŋli ˈɔːltəd/            | E 段关键判断                      |
+| depicted                       | 描绘；描写               | 被塑造成某种样子       | /dɪˈpɪktɪd/                       | 常见于人物或场景呈现                   |
+| Indonesian                     | 印度尼西亚的；印尼人          | 印尼式的           | /ˌɪndəˈniːʒən/                    | 专有形容词                        |
+| perceptions                    | 看法；认知               | 公众对历史形象的认知     | /pəˈsepʃənz/                      | 本文多次出现                       |
+| contemporary                   | 当代的；同时代的            | 当代社会的          | /kənˈtempərəri/                   | `contemporary perceptions`   |
+| ancestors                      | 祖先；先人               | 人类祖先           | /ˈænsestəz/                       | 常用于历史和演化语境                   |
+| misconceptions                 | 误解；错误观念             | 不准确的先入之见       | /ˌmɪskənˈsepʃənz/                 | 常和 prejudice 并列              |
+| prejudices                     | 偏见；成见               | 预设偏见           | /ˈpredʒədɪsɪz/                    | 负面色彩明显                       |
+| bias                           | 偏见；偏向               | 呈现历史时的偏差       | /ˈbaɪəs/                          | 贯穿全文的重要概念                    |
+| inevitable                     | 不可避免的               | 无法完全消除的        | /ɪnˈevɪtəbl/                      | F 段开头判断句                     |
+| transitory                     | 短暂的；暂时的             | 容易消失、不易保存的     | /ˈtrænsətəri/                     | 修饰 materials                 |
+| survive the historical process | 经受住历史进程而留存下来        | 在历史淘汰中被保留下来    | /səˈvaɪv ðə hɪˈstɒrɪkəl ˈprəʊses/ | F 段核心表达                      |
+| palaces                        | 宫殿                  | 宫殿建筑           | /ˈpælɪsɪz/                        | 和 ordinary dwellings 对照      |
+| cathedrals                     | 大教堂                 | 大教堂建筑          | /kəˈθiːdrəlz/                     | 宗教建筑词                        |
+| dwellings                      | 住处；住宅               | 普通人的居所         | /ˈdwelɪŋz/                        | 比 house 更正式                  |
+| furnishings                    | 家具陈设                | 室内陈设           | /ˈfɜːnɪʃɪŋz/                      | 常用复数                         |
+| premises                       | 场所；房屋及附属区域          | 房屋内部及其空间       | /ˈpremɪsɪz/                       | 这里不是“前提”                     |
+| was occupied by                | 居住着；被占据             | 有……人口居住        | /wɒz ˈɒkjupaɪd baɪ/               | 这里不是“被占领”                    |
+| inhabitants                    | 居民                  | 常住人口           | /ɪnˈhæbɪtənts/                    | 正式表达                         |
+| circumstances                  | 环境；处境               | 生活条件           | /ˈsɜːkəmstænsɪz/                  | 常用复数                         |
+| period rooms                   | 时代陈列室               | 按某个历史时期复原的房间   | /ˈpɪəriəd ruːmz/                  | 博物馆语境常见                      |
+| era                            | 时代                  | 那个时代           | /ˈɪərə/                           | 正式书面词                        |
+| no wonder                      | 难怪                  | 难怪会这样          | /nəʊ ˈwʌndə(r)/                   | 固定表达                         |
+| stroll                         | 漫步；闲逛               | 随意逛展           | /strəʊl/                          | 语气轻松                         |
+| nostalgia                      | 怀旧；怀念               | 对过去生活的美化怀念     | /nɒˈstældʒə/                      | F 段情感词                       |
+| indicates                      | 表明；显示               | 让人感觉、暗示        | /ˈɪndɪkeɪts/                      | 本文有“证据显示”的语感                 |
+| induced                        | 引起；导致               | 被博物馆叙事诱发出来     | /ɪnˈdjuːst/                       | 常用于抽象结果                      |
 
 ## 长难句
 

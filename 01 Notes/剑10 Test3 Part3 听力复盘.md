@@ -7,16 +7,16 @@ tags:
   - ielts
   - listening
   - review
-  - cambridge3
+  - cambridge10
 ---
 
-# 剑3 Test3 Part3 听力复盘
+# 剑10 Test3 Part3 听力复盘
 
 上级入口：[[雅思听力]]
 
 ## 基本信息
 
-- 套题：Cambridge IELTS 3
+- 套题：Cambridge IELTS 10
 - 位置：Test 3 Part 3
 - 正确率：`7/10`
 
@@ -45,6 +45,8 @@ tags:
 | focus | 焦点；重点；集中于 | 关注重点；侧重点 | /ˈfəʊkəs/ | 在题目和原文改写里常和 `emphasis` 对应 |
 | stay in touch | 保持联系 | 持续保持联系 | /steɪ ɪn tʌtʃ/ | 听力里常用于人与人之间的后续联系 |
 | specialism | 专业领域；专长 | 专门研究方向；专业方向 | /ˈspeʃəlɪzəm/ | 英式英语更常见，接近 `specialty` 或 `area of expertise` |
+| ambition | 抱负；雄心；志向 | 想要达到的目标或理想 | /æmˈbɪʃən/ | 语气比一般的 `goal` 更强，常带长期发展意味 |
+| aspiration | 渴望；志向；追求 | 对未来的理想追求 | /ˌæspəˈreɪʃən/ | 语气比 `ambition` 更正式，也更偏内在追求 |
 
 ## 听力陷阱
 
