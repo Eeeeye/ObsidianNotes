@@ -22,51 +22,51 @@ tags:
 
 ## 生词和短语
 
-| 词 / 短语 | 含义 | 音标 | 句中含义 | 备注 |
-| --- | --- | --- | --- | --- |
-| Venus | 金星 | /ˈviːnəs/ | 金星 | 天文学核心名词 |
-| transit | 凌日；通过 | /ˈtrænzɪt/ | （金星）凌日 | 本文核心词 |
-| astronomer | 天文学家 | /əˈstrɒnəmə/ | 天文学家 | 高频学术职业词 |
-| alleged | 据称的；所谓的 | /əˈledʒd/ | 据称的 | 注意新闻和叙述语气 |
-| drawn | 被吸引的；画出的 | /drɔːn/ | 被吸引到 | 常见多义词 |
-| put it all down to | 把这一切归因于 | /pʊt ɪt ɔːl daʊn tuː/ | 归因于 | 固定表达 |
-| extraordinary | 非凡的；不同寻常的 | /ɪkˈstrɔːdnri/ | 非凡的 | 常见形容词 |
-| polymath | 博学家；通才 | /ˈpɒlimæθ/ | 博学家 | 生词，人物描述 |
-| four corners of the globe | 世界各地 | /fɔː ˈkɔːnəz əv ðə ɡləʊb/ | 世界各地 | 固定表达 |
-| Mercury | 水星 | /ˈmɜːkjəri/ | 水星 | 天文学名词 |
-| innermost planet | 最靠近太阳的行星 | /ˈɪnəməʊst ˈplænɪt/ | 最内侧行星 | 天文学表达 |
-| desolate | 荒凉的；偏僻的 | /ˈdesələt/ | 荒凉的 | 场景词 |
-| Pacific | 太平洋的；太平洋 | /pəˈsɪfɪk/ | 太平洋 | 专有名词 |
-| latitude | 纬度 | /ˈlætɪtjuːd/ | 纬度 | 地理术语 |
-| sun's disc | 太阳圆面 | /sʌnz dɪsk/ | 太阳表面圆盘 | 天文观察术语 |
-| parallax angle | 视差角 | /ˈpærəlæks ˈæŋɡl/ | 视差角 | 本文核心科学概念 |
-| apparent difference | 表面上的差异；视差 | /əˈpærənt ˈdɪfrəns/ | 表面可见的差异 | 注意 `apparent` 不是“明显地” |
-| governed | 受……支配；由……决定 | /ˈɡʌvənd/ | 由……决定 | 常见抽象动词 |
-| orbital | 轨道的 | /ˈɔːbɪtl/ | 轨道的 | 天文学术词 |
-| fall into place | 变得清晰；顺理成章地拼合起来 | /fɔːl ˈɪntuː pleɪs/ | 一下子说得通了 | 固定表达 |
-| 1 part in 500 | 五百分之一 | /wʌn pɑːt ɪn faɪv ˈhʌndrəd/ | 精度达到五百分之一 | 精度表达 |
-| survive to | 活到……；存活到…… | /səˈvaɪv tuː/ | 活到 | 常见搭配 |
-| pin down | 准确确定；弄清 | /pɪn daʊn/ | 准确测定 | 高频短语 |
-| expedition | 远征；考察队 | /ˌekspəˈdɪʃən/ | 科学考察 | 本文高频词 |
-| sympathy | 同情；理解 | /ˈsɪmpəθi/ | 同情 | 语境义看上下文 |
-| thwarted | 阻挠；受阻的 | /ˈθwɔːtɪd/ | 被阻碍的 | 常见被动语境 |
-| besieging | 围攻 | /bɪˈsiːdʒɪŋ/ | 围攻 | 历史叙事词 |
-| fleeing | 逃离 | /ˈfliːɪŋ/ | 逃离 | 动作词 |
-| pitching | 颠簸 | /ˈpɪtʃɪŋ/ | 上下颠簸 | 航海场景词 |
-| rolling | 摇晃 | /ˈrəʊlɪŋ/ | 左右摇晃 | 航海场景词 |
-| ruled out | 排除；使不可能 | /ruːld aʊt/ | 排除了……的可能 | 固定表达 |
-| undaunted | 不屈不挠的；未被吓倒的 | /ʌnˈdɔːntɪd/ | 没有被打退 | 人物品质词 |
-| equator | 赤道 | /ɪˈkweɪtə/ | 赤道 | 地理词 |
-| Mauritius and Madagascar | 毛里求斯和马达加斯加 | /məˈrɪʃəs ænd ˌmædəˈɡæskə/ | 毛里求斯和马达加斯加 | 地名 |
-| setting off | 出发；启程 | /ˈsetɪŋ ɒf/ | 出发 | 固定短语 |
-| ironically | 具有讽刺意味地 | /aɪˈrɒnɪkli/ | 讽刺的是 | 逻辑副词 |
-| dispiriting | 令人沮丧的 | /dɪˈspɪrɪtɪŋ/ | 令人泄气的 | 情绪词 |
-| reasonably | 相当地；合理地 | /ˈriːzənəbli/ | 相当地 | 副词义项注意语境 |
-| radar | 雷达 | /ˈreɪdɑː/ | 雷达 | 科技术语 |
-| superseded | 取代了 | /ˌsuːpəˈsiːdɪd/ | 被更新技术取代 | 学术叙述常见 |
-| cosmic | 宇宙的 | /ˈkɒzmɪk/ | 宇宙的 | 学术词 |
-| measuring rod | 尺度；标尺 | /ˈmeʒərɪŋ rɒd/ | 测量标尺 | 比喻表达 |
-| spectacle | 壮观景象；奇观 | /ˈspektəkl/ | 奇观 | 文章收束词 |
+| 词 / 短语                    | 含义             | 音标                          | 句中含义       | 备注                    |
+| ------------------------- | -------------- | --------------------------- | ---------- | --------------------- |
+| Venus                     | 金星             | /ˈviːnəs/                   | 金星         | 天文学核心名词               |
+| transit                   | 凌日；通过          | /ˈtrænzɪt/                  | （金星）凌日     | 本文核心词                 |
+| astronomer                | 天文学家           | /əˈstrɒnəmə/                | 天文学家       | 高频学术职业词               |
+| alleged                   | 据称的；所谓的        | /əˈledʒd/                   | 据称的        | 注意新闻和叙述语气             |
+| drawn                     | 被吸引的；画出的       | /drɔːn/                     | 被吸引到       | 常见多义词                 |
+| put it all down to        | 把这一切归因于        | /pʊt ɪt ɔːl daʊn tuː/       | 归因于        | 固定表达                  |
+| extraordinary             | 非凡的；不同寻常的      | /ɪkˈstrɔːdnri/              | 非凡的        | 常见形容词                 |
+| polymath                  | 博学家；通才         | /ˈpɒlimæθ/                  | 博学家        | 生词，人物描述               |
+| four corners of the globe | 世界各地           | /fɔː ˈkɔːnəz əv ðə ɡləʊb/   | 世界各地       | 固定表达                  |
+| Mercury                   | 水星             | /ˈmɜːkjəri/                 | 水星         | 天文学名词                 |
+| innermost planet          | 最靠近太阳的行星       | /ˈɪnəməʊst ˈplænɪt/         | 最内侧行星      | 天文学表达                 |
+| desolate                  | 荒凉的；偏僻的        | /ˈdesələt/                  | 荒凉的        | 场景词                   |
+| Pacific                   | 太平洋的；太平洋       | /pəˈsɪfɪk/                  | 太平洋        | 专有名词                  |
+| latitude                  | 纬度             | /ˈlætɪtjuːd/                | 纬度         | 地理术语                  |
+| sun's disc                | 太阳圆面           | /sʌnz dɪsk/                 | 太阳表面圆盘     | 天文观察术语                |
+| parallax angle            | 视差角            | /ˈpærəlæks ˈæŋɡl/           | 视差角        | 本文核心科学概念              |
+| apparent difference       | 表面上的差异；视差      | /əˈpærənt ˈdɪfrəns/         | 表面可见的差异    | 注意 `apparent` 不是“明显地” |
+| governed                  | 受……支配；由……决定    | /ˈɡʌvənd/                   | 由……决定      | 常见抽象动词                |
+| orbital                   | 轨道的            | /ˈɔːbɪtl/                   | 轨道的        | 天文学术词                 |
+| fall into place           | 变得清晰；顺理成章地拼合起来 | /fɔːl ˈɪntuː pleɪs/         | 一下子说得通了    | 固定表达                  |
+| 1 part in 500             | 五百分之一          | /wʌn pɑːt ɪn faɪv ˈhʌndrəd/ | 精度达到五百分之一  | 精度表达                  |
+| survive to                | 活到……；存活到……     | /səˈvaɪv tuː/               | 活到         | 常见搭配                  |
+| pin down                  | 准确确定；弄清        | /pɪn daʊn/                  | 准确测定       | 高频短语                  |
+| expedition                | 远征；考察队         | /ˌekspəˈdɪʃən/              | 科学考察       | 本文高频词                 |
+| sympathy                  | 同情；理解          | /ˈsɪmpəθi/                  | 同情         | 语境义看上下文               |
+| thwarted                  | 阻挠；受阻的         | /ˈθwɔːtɪd/                  | 被阻碍的       | 常见被动语境                |
+| besieging                 | 围攻             | /bɪˈsiːdʒɪŋ/                | 围攻         | 历史叙事词                 |
+| fleeing                   | 逃离             | /ˈfliːɪŋ/                   | 逃离         | 动作词                   |
+| pitching                  | 颠簸             | /ˈpɪtʃɪŋ/                   | 上下颠簸       | 航海场景词                 |
+| rolling                   | 摇晃             | /ˈrəʊlɪŋ/                   | 左右摇晃       | 航海场景词                 |
+| ruled out                 | 排除；使不可能        | /ruːld aʊt/                 | 排除了……的可能   | 固定表达                  |
+| undaunted                 | 不屈不挠的；未被吓倒的    | /ʌnˈdɔːntɪd/                | 没有被打退      | 人物品质词                 |
+| equator                   | 赤道             | /ɪˈkweɪtə/                  | 赤道         | 地理词                   |
+| Mauritius and Madagascar  | 毛里求斯和马达加斯加     | /məˈrɪʃəs ænd ˌmædəˈɡæskə/  | 毛里求斯和马达加斯加 | 地名                    |
+| setting off               | 出发；启程          | /ˈsetɪŋ ɒf/                 | 出发         | 固定短语                  |
+| ironically                | 具有讽刺意味地        | /aɪˈrɒnɪkli/                | 讽刺的是       | 逻辑副词                  |
+| dispiriting               | 令人沮丧的          | /dɪˈspɪrɪtɪŋ/               | 令人泄气的      | 情绪词                   |
+| reasonably                | 相当地；合理地        | /ˈriːzənəbli/               | 相当地        | 副词义项注意语境              |
+| radar                     | 雷达             | /ˈreɪdɑː/                   | 雷达         | 科技术语                  |
+| superseded                | 取代了            | /ˌsuːpəˈsiːdɪd/             | 被更新技术取代    | 学术叙述常见                |
+| cosmic                    | 宇宙的            | /ˈkɒzmɪk/                   | 宇宙的        | 学术词                   |
+| measuring rod             | 尺度；标尺          | /ˈmeʒərɪŋ rɒd/              | 测量标尺       | 比喻表达                  |
+| spectacle                 | 壮观景象；奇观        | /ˈspektəkl/                 | 奇观         | 文章收束词                 |
 
 ## 长难句
 
