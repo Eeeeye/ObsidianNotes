@@ -75,7 +75,14 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
-| （待补充） | | | |
+| pigeon | 鸽子 | /ˈpɪdʒɪn/ | ❗常见拼错：`pegeon`（❌）。原文：能栖息在城市建筑的 ledge 上 |
+| perch on ledges | 栖息在岩架上 | /pɜːtʃ ɒn ˈledʒɪz/ | 原文：`able to perch on ledges on the walls of city buildings, just like they once perched on cliffs by the sea` |
+| rural mammal | 乡村哺乳动物 | /ˈrʊərəl ˈmæml/ | 与 `urban mammal`（城市哺乳动物）相对。原文：`these small mammals had experienced a jump in brain size when compared to rural mammals` |
+| cognitive | 认知的 | /ˈkɒɡnətɪv/ | 原文：`something cognitive was going on` / `the cognitive demands of adjusting to city life` |
+| anatomy | 解剖学、身体结构 | /əˈnætəmi/ | 原文：`she's been looking not at their anatomy but at their behaviour` — 与 behaviour 对比 |
+| bold | 勇敢的、大胆的 | /bəʊld/ | 原文：`urban blackbirds tend to be quite bold — they're prepared to face up to a lot of threats` |
+| tail | 尾巴 | /teɪl/ | ⚠️ 同音词：`tale`（故事）。原文：`a routine part of their communication is carried out by waving their tails` |
+| permanent | 永久的、持久的 | /ˈpɜːmənənt/ | 原文：`not all of these adaptations will be permanent` — 并非所有适应都是永久性的 |
 
 ### 错题记录
 
