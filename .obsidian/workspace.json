@@ -171,14 +171,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 Journal/Daily/2026-04-18.md"
+                "file": "01 Notes/剑17 Test1 阅读精读.md"
               },
               "icon": "lucide-info",
-              "title": "2026-04-18的笔记属性"
+              "title": "剑17 Test1 阅读精读的笔记属性"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,10 +192,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "615830271f4479cc",
+  "active": "84162a72e91d2482",
   "lastOpenFiles": [
     "references/ielts/c17t1p3_extracted.txt",
     "references/ielts",

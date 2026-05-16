@@ -84,9 +84,22 @@ tags:
 | ineffective monarch | 无能的君主 | /ˌɪnɪˈfektɪv ˈmɒnək/ | 原文描述：`an ineffective, pleasure-loving monarch` |
 | niggle | 小抱怨、小毛病 | /ˈnɪɡl/ | `this one niggle aside` — 抛开这个小瑕疵 |
 | a treat in store | 有好东西等着 | /ə triːt ɪn stɔːr/ | `find they have a treat in store` — 读者会发现有精彩的内容在等着他们 |
+| adventure | 冒险经历、历险 | /ədˈventʃər/ | 原文：`Charles's adventures after losing the Battle of Worcester` — 指查理二世逃亡六周的惊险历程 |
+| canvas | 油画、帆布 | /ˈkænvəs/ | 原文：`a two-metre-wide canvas of Boscobel Wood` — 这里指油画布/大幅油画 |
+| episode | 事件、一段经历 | /ˈepɪsəʊd/ | 原文：`this most extraordinary episode` / `oil paintings depicting the episode` — 指查理二世逃亡这段经历 |
+| essentially | 本质上、根本上 | /ɪˈsenʃəli/ | 原文：`It is hard to imagine many other kings marking the lowest point in their life so enthusiastically` = 他本质上是在庆祝一次失败 |
+| enthusiastic | 热情的、热心的 | /ɪnˌθjuːziˈæstɪk/ | 原文副词形式：`so enthusiastically` — 如此热心地（纪念人生低谷） |
+| unbiased | 公正的、不偏不倚的 | /ʌnˈbaɪəst/ | 与 `even-handed` 同义。原文：`He has even-handed sympathy for both` = 对双方 unbiased |
+| corner | 角落、困境 | /ˈkɔːnər/ | 原文短语：`tight corners`（困境、绝境）。`corner` 单独使用时也可指"角落" |
+| deftly | 灵巧地、巧妙地 | /ˈdeftli/ | 原文：`steers deftly clear of modern idioms` — `deft`（形容词）= 灵巧的 |
+| elegantly | 优雅地、精美地 | /ˈelɪɡəntli/ | 原文：`elegantly brings to life the details of the great tale` |
+| prose | 散文、文笔 | /prəʊz/ | 原文：`pacey, readable prose` — 紧凑可读的文笔 |
+| steer | 驾驶、引导 | /stɪər/ | 原文：`steers deftly clear of modern idioms` — 巧妙地避开现代用语（`steer clear of` = 避开） |
+| tale | 故事、传说 | /teɪl/ | ⚠️ 同音词：`tail`（尾巴）。原文：`the great tale` / `the famous tale` |
+| whilst | 当...的时候（然而） | /waɪlst/ | ⚠️ 英式英语，相当于 `while`。原文：`whilst almost everyone in England had been appalled by the execution of his father` |
 
 ⚠️ 注意拼写：`fugitive`（不是 fugitive 的常见拼写错误）、`penniless`（= penny + less）、`appalled`（双 p 双 l）、`commissioned`（双 m 双 s）
-
+ 
 ---
 
 ### 长难句
