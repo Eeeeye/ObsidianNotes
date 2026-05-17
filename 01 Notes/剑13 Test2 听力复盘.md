@@ -61,7 +61,8 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
-| （待补充） | | | | |
+| chronological | 按时间顺序的 | /ˌkrɒnəˈlɒdʒɪkl/ | 相关词：`chronology`（年代学）。常用于描述 presentation 结构 |
+| numerous | 许多的、大量的 | /ˈnjuːmərəs/ | 原文：`the numerous ways that nanotechnology is being applied` |
 
 ### 错题记录
 
