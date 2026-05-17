@@ -41,6 +41,9 @@ tags:
 | overwhelmingly | 压倒性地、绝大多数地 | /ˌəʊvəˈwelmɪŋli/ | 原文：`Feedback from staff has been overwhelmingly positive` — 员工反馈极其积极 |
 | conversation | 对话、交谈 | /ˌkɒnvəˈseɪʃn/ | ⚠️ 注意与 conservation 发音区分 |
 | conservation | 保护（自然环境） | /ˌkɒnsəˈveɪʃn/ | ⚠️ 与 conversation 发音易混。原文：`a conservation project in Redfern Park` |
+| out-dated / outdated | 过时的 | /ˌaʊtˈdeɪtɪd/ | 同义替换：`old-fashioned`。原文：`these tended to be outdated models` = 款式过时 |
+| keen to | 渴望、热衷于 | /kiːn tuː/ | `keen to do sth`。原文：`A few were keen to learn` — 少数人很愿意学 |
+| dismissive | 不屑一顾的、轻视的 | /dɪˈsmɪsɪv/ | 原文：`most were quite dismissive at first — they couldn't see the point` — 大多数人一开始不以为然 |
 
 ### 错题记录
 
