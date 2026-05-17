@@ -66,6 +66,7 @@ tags:
 | tailoring | 调整、使适应 | /ˈteɪlərɪŋ/ | 原文：`tailoring what you say to fit whatever slides you can find` — 原意"裁剪"，这里比喻为迎合幻灯片调整内容 |
 | fit | 适合、适应 | /fɪt/ | 原文同上：`tailoring... to fit whatever slides` |
 | abruptly | 突然地 | /əˈbrʌptli/ | 原文：`ended rather abruptly, without rounding it off` — 结束得太突然 |
+| distract | 分散注意力、使分心 | /dɪˈstrækt/ | 相关词：`distracted`（分心的）、`distraction`（干扰） |
 | round it off | 圆满结束、收尾 | /raʊnd ɪt ɒf/ | 原文：`without rounding it off` — 没有做好收尾 |
 
 ### 错题记录
