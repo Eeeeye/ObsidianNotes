@@ -63,6 +63,8 @@ tags:
 | --- | --- | --- | --- |
 | chronological | 按时间顺序的 | /ˌkrɒnəˈlɒdʒɪkl/ | 相关词：`chronology`（年代学）。常用于描述 presentation 结构 |
 | numerous | 许多的、大量的 | /ˈnjuːmərəs/ | 原文：`the numerous ways that nanotechnology is being applied` |
+| tailoring | 调整、使适应 | /ˈteɪlərɪŋ/ | 原文：`tailoring what you say to fit whatever slides you can find` — 原意"裁剪"，这里比喻为迎合幻灯片调整内容 |
+| fit | 适合、适应 | /fɪt/ | 原文同上：`tailoring... to fit whatever slides` |
 
 ### 错题记录
 
