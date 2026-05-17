@@ -44,6 +44,8 @@ tags:
 | out-dated / outdated | 过时的 | /ˌaʊtˈdeɪtɪd/ | 同义替换：`old-fashioned`。原文：`these tended to be outdated models` = 款式过时 |
 | keen to | 渴望、热衷于 | /kiːn tuː/ | `keen to do sth`。原文：`A few were keen to learn` — 少数人很愿意学 |
 | dismissive | 不屑一顾的、轻视的 | /dɪˈsmɪsɪv/ | 原文：`most were quite dismissive at first — they couldn't see the point` — 大多数人一开始不以为然 |
+| prefer to | 更喜欢 | /prɪˈfɜːr tuː/ | ❗正确拼写 `prefer`，不是 `perfer`。原文隐含：`they liked going out to the shops` = prefer to shop in person |
+| prefer A to B | 喜欢 A 胜过 B | /prɪˈfɜːr A tuː B/ | 固定搭配：`prefer doing sth to doing sth`。原文：喜欢亲自去商店 > 网购 |
 
 ### 错题记录
 
