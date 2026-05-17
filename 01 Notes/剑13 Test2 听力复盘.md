@@ -38,7 +38,9 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
-| （待补充） | | | | |
+| overwhelmingly | 压倒性地、绝大多数地 | /ˌəʊvəˈwelmɪŋli/ | 原文：`Feedback from staff has been overwhelmingly positive` — 员工反馈极其积极 |
+| conversation | 对话、交谈 | /ˌkɒnvəˈseɪʃn/ | ⚠️ 注意与 conservation 发音区分 |
+| conservation | 保护（自然环境） | /ˌkɒnsəˈveɪʃn/ | ⚠️ 与 conversation 发音易混。原文：`a conservation project in Redfern Park` |
 
 ### 错题记录
 
