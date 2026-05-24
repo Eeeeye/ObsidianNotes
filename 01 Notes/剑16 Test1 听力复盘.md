@@ -41,6 +41,9 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| boardroom | 董事会会议室 | /ˈbɔːdruːm/ | 原文：`the boardroom is on the left, next to the factory` |
+| warehouse | 仓库 | /ˈweəhaʊs/ | 原文：`Next to it is the warehouse, which can be accessed by lorries` |
+| courtyard | 庭院、院子 | /ˈkɔːtjɑːd/ | ⚠️ 注意拼写 court-yard。原文：`crossing to the far side of the courtyard` |
 | （待报词） | | | |
 
 ### 错题记录
