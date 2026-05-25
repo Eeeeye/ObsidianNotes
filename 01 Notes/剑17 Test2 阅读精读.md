@@ -41,6 +41,7 @@ tags:
 | aromatic | 芳香的、有香味的 | /ˌærəˈmætɪk/ | 原文：`And very aromatic`（Kudla 形容基因编辑番茄的味道）。名词 `aroma`（香气）。同义：`fragrant`、`scented` |
 | thrive | 蓬勃发展、茁壮成长 | /θraɪv/ | 原文：`crops that will thrive even as the planet warms`。不规则动词：thrive → thrived/throve → thrived。常见搭配 `thrive on`（以…茁壮成长）、`business is thriving`（生意兴隆） |
 | obscure | 不为人知的、模糊的 | /əbˈskjʊə(r)/ | 原文：`boost the use of many obscure plants`（推广许多鲜为人知的植物）。也可作动词 `obscure`（使模糊、遮蔽）。反义：`well-known`、`famous` |
+| tolerant | 耐受的、宽容的 | /ˈtɒlərənt/ | 原文：`more salt tolerant`（更耐盐的）。常见搭配：`drought-tolerant`（耐旱）、`heat-tolerant`（耐热）。名词 `tolerance`（耐受性/宽容），动词 `tolerate`（忍受） |
 | （待报词） | | | |
 
 ### 长难句
