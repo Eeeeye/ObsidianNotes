@@ -63,4 +63,9 @@ tags:
 
 ## Passage 3 — Insight or evolution?
 
-（待补充）
+### 生词和表达
+
+| 词 / 表达 | 含义 | 音标 | 备注 |
+| --- | --- | --- | --- |
+| predecessor | 前任、前身、前辈 | /ˈpriːdɪsesə(r)/ | ⚠️ 拼写：`predecessor`（pre- 前 + decessor 离职者），不是 `prodecessor`。原文：`their lesser-known predecessors`（他们不太知名的前辈）。反义：`successor`（继任者） |
+| （待报词） | | | |
