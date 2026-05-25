@@ -34,6 +34,8 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| domesticate | 驯化、驯养 | /dəˈmestɪkeɪt/ | 原文：`how to domesticate the wild tomato`、`A second attempt at domesticating the tomato`。派生：`domesticated`（adj. 驯化的）、`domestication`（n. 驯化过程）。注意和 `domestic`（国内的/家庭的）区分 |
+| cultivate | 种植、耕种、培养 | /ˈkʌltɪveɪt/ | 原文：`cultivate it for food`。派生：`cultivation`（n. 耕种）、`cultivated`（adj. 耕种的/有教养的）。也可用于比喻义 `cultivate a relationship`（培养关系） |
 | （待报词） | | | |
 
 ### 长难句
