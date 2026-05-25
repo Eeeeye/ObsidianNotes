@@ -36,6 +36,8 @@ tags:
 | --- | --- | --- | --- |
 | domesticate | 驯化、驯养 | /dəˈmestɪkeɪt/ | 原文：`how to domesticate the wild tomato`、`A second attempt at domesticating the tomato`。派生：`domesticated`（adj. 驯化的）、`domestication`（n. 驯化过程）。注意和 `domestic`（国内的/家庭的）区分 |
 | cultivate | 种植、耕种、培养 | /ˈkʌltɪveɪt/ | 原文：`cultivate it for food`。派生：`cultivation`（n. 耕种）、`cultivated`（adj. 耕种的/有教养的）。也可用于比喻义 `cultivate a relationship`（培养关系） |
+| arise | 出现、产生、兴起 | /əˈraɪz/ | 题目 Q15：`how problems can arise from...`。不规则动词：arise → arose → arisen。⚠️ 和 `rise`（上升/增加）区分：arise = 抽象事物产生（problems/opportunities），rise = 具体升高（sun/prices） |
+| staple crops | 主要农作物、主食作物 | /ˈsteɪpl krɒps/ | 原文：`become new staple crops`。`staple`（adj. 主要的/基本的；n. 主食/ staples），如 `staple food` = 主食（rice is a staple food） |
 | （待报词） | | | |
 
 ### 长难句
