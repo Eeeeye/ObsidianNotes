@@ -85,6 +85,12 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| appeal | 吸引力、呼吁 | /əˈpiːl/ | 原文：`the most practical... and therefore the most appealing`。Q31 答案 `practical appeal`。作名词=吸引力/上诉，作动词=呼吁/吸引 |
+| virtue | 美德 | /ˈvɜːtʃuː/ | 原文：`the key to achieving this was virtue`。`virtuous life` = 有德行的生活。⚠️ 和 `virtual`（虚拟的）发音接近但完全不同 |
+| destructive | 破坏性的、毁灭性的 | /dɪˈstrʌktɪv/ | 原文：`destructive emotions, like anger and jealousy`（破坏性情绪）。词根 `destroy`。反义：`constructive` |
+| conscious | 有意识的、清醒的 | /ˈkɒnʃəs/ | 原文：`under our conscious control`（受我们有意识的控制）。`conscious decision` = 有意识决定。⚠️ 和 `conscience`（良心）区分 |
+| undertaking | 事业、任务、承诺 | /ˌʌndəˈteɪkɪŋ/ | 原文：`desire into undertaking`（将欲望转化为行动/事业）。动词 `undertake`（承担、从事） |
+| capitalism | 资本主义 | /ˈkæpɪtəlɪzəm/ | 原文：`Adam Smith's theories on capitalism`（Q36 答案）。词根 `capital`（资本） |
 | （待报词） | | | |
 
 ### 错题记录
