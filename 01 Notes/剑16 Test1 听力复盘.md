@@ -62,6 +62,11 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| put off | 使反感、使失去兴趣 | /pʊt ɒf/ | 原文：`I was really put off`（那些 handout 让她一开始很反感）。`put sb off sth` |
+| letdown | 失望、令人失望的事 | /ˈletdaʊn/ | 原文：`What a letdown!`（Bird Park 因雨几乎没看到鸟）。来自 `let sb down` |
+| rationale | 理由、基本原理 | /ˌræʃəˈnɑːl/ | 题目：`giving a rationale for their action plans`。和 `rational`（adj. 理性的）区分 |
+| vague | 模糊的、不明确的 | /veɪɡ/ | 原文：`make it a bit more vague`（把 proposal 写模糊留探索空间） |
+| continuity | 连续性 | /ˌkɒntɪˈnjuːəti/ | Q29 → `the continuity of life`（Gauguin 画中白鸟象征生命循环） |
 | （待报词） | | | |
 
 ### 错题记录
