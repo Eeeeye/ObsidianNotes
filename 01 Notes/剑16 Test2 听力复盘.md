@@ -46,9 +46,23 @@ tags:
 
 ---
 
-## Part 4
+## Part 4 — Dancing and its benefits
 
-（待补充）
+题型：笔记填空 (Q31-40) | ONE WORD ONLY
+
+### 生词和表达
+
+| 词 / 表达 | 含义 | 音标 | 备注 |
+| --- | --- | --- | --- |
+| intense | 剧烈的、高强度的 | /ɪnˈtens/ | 原文：`more intense workouts`（高强度锻炼）、`moderately intense exercises`（中等强度运动）。派生：`intensity`（n. 强度）、`intensive`（密集的） |
+| obesity | 肥胖（症） | /əʊˈbiːsəti/ | 原文：`women with obesity`（Q39 答案相关）。形容词 `obese`（肥胖的）。医学语境常见，比 `fat` 更正式 |
+| （待报词） | | | |
+
+### 错题记录
+
+| 题号 | 你的答案 | 正确答案 | 错因 | 下次提醒 |
+| --- | --- | --- | --- | --- |
+| （待补充） | | | | |
 
 ---
 
