@@ -28,6 +28,11 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| belly | 腹部、肚子 | /ˈbeli/ | 原文：`stripes along its body and tail` + `young spent first months of life inside its mother's 3...`（Q3 答案 pouch）。袋狼有袋，幼崽在育儿袋中度过最初几个月 |
+| pouch | 育儿袋、小袋 | /paʊtʃ/ | 原文：`inside its mother's pouch`。有袋类动物（marsupial）特有。⚠️ 和 `poach`（偷猎/水煮）发音区分 |
+| carnivorous | 肉食的 | /kɑːˈnɪvərəs/ | 原文：`ate an entirely 1... diet`（Q1 答案 `carnivorous` — 完全肉食）。词根 `carni-` = 肉，`-vorous` = 吃 |
+| scent | 气味、嗅觉 | /sent/ | 原文：`depended mainly on 2... when hunting`（Q2 答案 `scent` — 靠嗅觉狩猎）。⚠️ `scent`/`sent`/`cent` 同音！ |
+| fossil | 化石 | /ˈfɒsl/ | 原文：`last evidence in mainland Australia is a 3,100-year-old 4...`（Q4 答案 `fossil`）。`fossil record` = 化石记录 |
 | （待报词） | | | |
 
 ### 长难句
