@@ -40,6 +40,7 @@ tags:
 | turn out | 结果是、证明是 | /tɜːn aʊt/ | `turn out fine/well/badly` 或 `turn out to be...`。原文 P2 语境：`turns out fine` — 结果还不错 |
 | make one's way up the career ladder | 在职业阶梯上逐步晋升 | /meɪk wʌnz weɪ ʌp ðə kəˈrɪə ˈlædə/ | `career ladder` = 职业阶梯；同义：`climb the career ladder`。`make one's way` = 前进、行进 |
 | administration | 管理、行政 | /ədˌmɪnɪˈstreɪʃn/ | `admin` 口语缩写。词根 `minister` = 服务/管理，`ad-` = 朝向 |
+| cottage on the estate | 庄园里的小屋 | /ˈkɒtɪdʒ ɒn ði ɪˈsteɪt/ | `cottage` = 村舍、小屋；`estate` = 庄园、地产。⚠️ `estate` ≠ `state`（州/状态） |
 | （待报词） | | | |
 
 ### 错题记录
