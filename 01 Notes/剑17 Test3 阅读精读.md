@@ -33,6 +33,7 @@ tags:
 | carnivorous | 肉食的 | /kɑːˈnɪvərəs/ | 原文：`ate an entirely 1... diet`（Q1 答案 `carnivorous` — 完全肉食）。词根 `carni-` = 肉，`-vorous` = 吃 |
 | scent | 气味、嗅觉 | /sent/ | 原文：`depended mainly on 2... when hunting`（Q2 答案 `scent` — 靠嗅觉狩猎）。⚠️ `scent`/`sent`/`cent` 同音！ |
 | fossil | 化石 | /ˈfɒsl/ | 原文：`last evidence in mainland Australia is a 3,100-year-old 4...`（Q4 答案 `fossil`）。`fossil record` = 化石记录 |
+| foresaw | 预见、预知（foresee 过去式） | /fɔːˈsɔː/ | 不规则：foresee → foresaw → foreseen |
 | （待报词） | | | |
 
 ### 长难句
