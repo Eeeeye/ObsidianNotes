@@ -34,6 +34,7 @@ tags:
 | scent | 气味、嗅觉 | /sent/ | 原文：`depended mainly on 2... when hunting`（Q2 答案 `scent` — 靠嗅觉狩猎）。⚠️ `scent`/`sent`/`cent` 同音！ |
 | fossil | 化石 | /ˈfɒsl/ | 原文：`last evidence in mainland Australia is a 3,100-year-old 4...`（Q4 答案 `fossil`）。`fossil record` = 化石记录 |
 | foresaw | 预见、预知（foresee 过去式） | /fɔːˈsɔː/ | 不规则：foresee → foresaw → foreseen |
+| in captivity | 在圈养环境中 | /ɪn kæpˈtɪvəti/ | `captivity` = 囚禁、圈养；`captive` (n./adj.) 俘虏/被俘的。反义：`in the wild`（在野外） |
 | （待报词） | | | |
 
 ### 长难句
