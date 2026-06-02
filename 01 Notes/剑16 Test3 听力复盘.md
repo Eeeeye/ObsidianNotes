@@ -56,6 +56,9 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| vanish | 消失 | /ˈvænɪʃ/ | 同义：`disappear`。`vanish into thin air` = 消失得无影无踪 |
+| absorb | 吸收 | /əbˈzɔːb/ | `absorb water/moisture/nutrients`。名词：`absorption` |
+| grind → ground up | 磨碎、碾碎 | /ɡraɪnd/ → /ɡraʊnd ʌp/ | 不规则：grind → ground → ground。`ground up` = 被磨成粉末的 |
 | （待报词） | | | |
 
 ### 错题记录
