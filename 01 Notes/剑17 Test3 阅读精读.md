@@ -56,7 +56,36 @@ tags:
 
 ## Passage 2 — Palm oil
 
-（待补充）
+### 主题判断
+
+- 待补充
+
+### 生词和表达
+
+| 词 / 表达 | 含义 | 音标 | 备注 |
+| --- | --- | --- | --- |
+| ecological | 生态的 | /ˌiːkəˈlɒdʒɪkl/ | `ecology` = 生态学，`ecosystem` = 生态系统 |
+| palm oil | 棕榈油 | /pɑːm ɔɪl/ | ⚠️ 常见拼错：不是 `plam`。`palm` 本义 = 手掌/棕榈树 |
+| insist upon | 坚持、坚决要求 | /ɪnˈsɪst əˈpɒn/ | = `insist on`。后接名词或动名词：`insist upon doing sth` |
+| virgin | 原始的、未开发的 | /ˈvɜːdʒɪn/ | 文中：`virgin forest` = 原始森林。本义 = 处女；引申 = 未触碰过的 |
+| criteria | 标准、准则（复数） | /kraɪˈtɪəriə/ | 单数：`criterion` /kraɪˈtɪəriən/。⚠️ `criteria` 作主语时动词用复数！ |
+| certification | 认证、证明 | /ˌsɜːtɪfɪˈkeɪʃn/ | `certify` (v.) → `certification` (n.)。`certified` = 经认证的 |
+| （待报词） | | | |
+
+### 长难句
+
+| 原句 | 结构拆分 | 译文 | 备注 |
+| --- | --- | --- | --- |
+
+### 题目定位
+
+| 题号 | 题型 | 定位句 | 正确答案 | 题型点 |
+| --- | --- | --- | --- | --- |
+
+### 错题复盘
+
+| 题号 | 错因 | 下次提醒 |
+| --- | --- | --- |
 
 ---
 
