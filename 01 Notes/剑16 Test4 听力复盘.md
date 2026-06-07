@@ -70,6 +70,10 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| rat | 老鼠 | /ræt/ | 比 `mouse` 更大。`lab rat` = 实验鼠 |
+| colony | 殖民地；群体 | /ˈkɒləni/ | 文中：鼠群/蚁群。也可指殖民地的定居点。`colonial` (adj.) |
+| spices | 香料（复数） | /ˈspaɪsɪz/ | 单数 `spice`。`spicy` = 辛辣的。⚠️ 不是 `species`（物种）！ |
+| skeleton | 骨骼、骨架 | /ˈskelɪtn/ | `skeletal` (adj.) = 骨骼的。`skeleton key` = 万能钥匙 |
 | （待报词） | | | |
 
 ### 错题记录
