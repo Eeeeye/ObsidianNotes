@@ -75,6 +75,9 @@ tags:
 | flew over | 飞越、飞过 | /fluː ˈəʊvə/ | `fly over` 的过去式（fly → flew → flown） |
 | dart | 猛冲、飞奔；飞镖 | /dɑːt/ | v. 快速移动，`dart across/into/out of`。n. 飞镖 |
 | lying on their chest | 躺在他们胸口上 | /ˈlaɪɪŋ ɒn ðeə tʃest/ | `lie on one's chest`。⚠️ `lie`（躺）→ lay → lain，不是 `lay`（放置） |
+| place on their sides | 侧放、放在他们侧面 | /pleɪs ɒn ðeə saɪdz/ | `on one's side` = 侧着。对比 `on one's back`（仰卧）/ `on one's chest`（俯卧） |
+| vet | 兽医；审查 | /vet/ | `veterinarian` 缩写。v. 审查、仔细检查（如 `vet candidates`） |
+| prospect | 前景、可能性；勘探 | /ˈprɒspekt/ | n. `job prospect` = 就业前景。v. `/prəˈspekt/` 勘探。⚠️ ≠ `perspective`（视角） |
 | （待报词） | | | |
 
 ### 错题记录
