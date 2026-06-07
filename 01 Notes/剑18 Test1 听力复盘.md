@@ -78,6 +78,8 @@ tags:
 | place on their sides | 侧放、放在他们侧面 | /pleɪs ɒn ðeə saɪdz/ | `on one's side` = 侧着。对比 `on one's back`（仰卧）/ `on one's chest`（俯卧） |
 | vet | 兽医；审查 | /vet/ | `veterinarian` 缩写。v. 审查、仔细检查（如 `vet candidates`） |
 | prospect | 前景、可能性；勘探 | /ˈprɒspekt/ | n. `job prospect` = 就业前景。v. `/prəˈspekt/` 勘探。⚠️ ≠ `perspective`（视角） |
+| weapon | 武器 | /ˈwepən/ | `chemical/biological weapon` = 化学/生物武器 |
+| poacher | 偷猎者 | /ˈpəʊtʃə(r)/ | `poach` (v.) 偷猎。⚠️ ≠ `pouch`（育儿袋，见 C17T3 阅读） |
 | （待报词） | | | |
 
 ### 错题记录
