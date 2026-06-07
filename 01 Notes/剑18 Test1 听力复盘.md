@@ -72,6 +72,9 @@ tags:
 | knock down | 拆毁、拆除；撞倒 | /nɒk daʊn/ | 文中：拆除建筑。同义：`demolish`/`tear down`。也可指撞倒人 |
 | fence | 围栏、篱笆 | /fens/ | `fencing` = 围栏（总称）；击剑运动。`sit on the fence` = 保持中立/观望 |
 | helicopter | 直升机 | /ˈhelɪkɒptə/ | `chopper` 口语。`helipad` = 直升机停机坪 |
+| flew over | 飞越、飞过 | /fluː ˈəʊvə/ | `fly over` 的过去式（fly → flew → flown） |
+| dart | 猛冲、飞奔；飞镖 | /dɑːt/ | v. 快速移动，`dart across/into/out of`。n. 飞镖 |
+| lying on their chest | 躺在他们胸口上 | /ˈlaɪɪŋ ɒn ðeə tʃest/ | `lie on one's chest`。⚠️ `lie`（躺）→ lay → lain，不是 `lay`（放置） |
 | （待报词） | | | |
 
 ### 错题记录
