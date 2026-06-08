@@ -52,6 +52,10 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| harsh | 严酷的、刺耳的 | /hɑːʃ/ | `harsh climate/conditions` = 严酷气候。`harsh criticism` = 严厉批评 |
+| narrow-minded | 心胸狭窄的、思想狭隘的 | /ˌnærəʊ ˈmaɪndɪd/ | 反义：`broad-minded`（心胸开阔的）。`-minded` 后缀：`open-minded`（思想开明的） |
+| retail | 零售 | /ˈriːteɪl/ | 反义：`wholesale`（批发）。`retailer` = 零售商 |
+| stock | 库存、存货；股票 | /stɒk/ | `in stock` = 有货，`out of stock` = 缺货。`stock market` = 股票市场 |
 | （待报词） | | | |
 
 ### 错题记录
