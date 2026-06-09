@@ -53,6 +53,8 @@ tags:
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
 | pre-industrial | 工业化之前的 | /priː ɪnˈdʌstriəl/ | `pre-`（之前）+ `industrial`。对比：`post-industrial`（后工业化的） |
+| political | 政治的 | /pəˈlɪtɪkl/ | `political party` = 政党。`politician` = 政治家 |
+| terminology | 术语 | /ˌtɜːmɪˈnɒlədʒi/ | `term` = 术语 → `terminology` = 术语（总称）。`technical terminology` = 技术术语 |
 | （待报词） | | | |
 
 ### 错题记录
