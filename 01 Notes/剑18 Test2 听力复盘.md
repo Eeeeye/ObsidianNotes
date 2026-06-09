@@ -71,6 +71,7 @@ tags:
 | tailor | 裁缝 | /ˈteɪlə(r)/ | 特指定制服装的裁缝。`tailor-made` = 量身定制的 |
 | sewed | 缝纫、缝合 | /səʊd/ | `sew` 过去式，也可用 `sewn`。`sew a button` = 缝扣子 |
 | garment | 服装、衣服 | /ˈɡɑːmənt/ | 正式用词。`garment industry` = 服装业。比 `clothes` 更正式 |
+| waist | 腰、腰部 | /weɪst/ | ⚠️ 同音 `waste`（浪费）。`waistline` = 腰围 |
 | （待报词） | | | |
 
 ### 错题记录
