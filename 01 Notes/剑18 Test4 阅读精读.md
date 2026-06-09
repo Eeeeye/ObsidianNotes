@@ -57,6 +57,17 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| disputed | 有争议的 | /dɪˈspjuːtɪd/ | `dispute` (v./n.) = 争议。`disputed territory` = 争议领土 |
+| controversy | 争议、争论 | /ˈkɒntrəvɜːsi/ | `controversial` (adj.) = 有争议的。⚠️ 重音在第一个音节 |
+| continent | 大陆 | /ˈkɒntɪnənt/ | `continental` (adj.)。`continental drift` = 大陆漂移 |
+| drift | 漂移、漂流 | /drɪft/ | `continental drift` = 大陆漂移学说。`drift apart` = 渐行渐远 |
+| defence | 防御、辩护 | /dɪˈfens/ | 英式拼写 = 美式 `defense`。`in defence of` = 为…辩护 |
+| defend | 防御、辩护（v.） | /dɪˈfend/ | `defend against` = 抵御。`defendant` (n.) = 被告 |
+| modest fame | 不大的名气 | /ˈmɒdɪst feɪm/ | `modest` = 谦虚的；不太大的。`a man of modest fame` = 小有名气的人 |
+| vast range | 广泛的范围 | /vɑːst reɪndʒ/ | `vast` = 广阔的、大量的。`a vast range of` = 各种各样的 |
+| hazardous | 危险的 | /ˈhæzədəs/ | ⚠️ 不是 `hazadous`！来自 `hazard`（危险）+ `-ous` |
+| investigation | 调查 | /ɪnˌvestɪˈɡeɪʃn/ | `investigate` (v.)。`under investigation` = 正在调查中 |
+| entailed | 需要、涉及 | /ɪnˈteɪld/ | `entail` 过去式。`entail doing sth` = 需要做某事 |
 | （待报词） | | | |
 
 ### 长难句
