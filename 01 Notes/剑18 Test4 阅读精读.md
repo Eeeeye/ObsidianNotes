@@ -97,6 +97,13 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| supplanted | 取代、代替 | /səˈplɑːntɪd/ | `supplant` 过去式。= `replace`/`displace` |
+| coaxing | 哄劝、诱导 | /ˈkəʊksɪŋ/ | `coax` (v.)。`coax sb into doing sth` = 哄某人做某事 |
+| quantify | 量化 | /ˈkwɒntɪfaɪ/ | `quantity` (n.) 数量 → `quantify` (v.) 量化。`quantifiable` = 可量化的 |
+| subtle | 微妙的、细微的 | /ˈsʌtl/ | ⚠️ `b` 不发音！`subtle difference` = 细微差别 |
+| intervention | 干预、介入 | /ˌɪntəˈvenʃn/ | `intervene` (v.)。`government intervention` = 政府干预 |
+| deliberate | 故意的、深思熟虑的 | /dɪˈlɪbərət/ | v. `/dɪˈlɪbəreɪt/` 仔细考虑。`deliberate attempt` = 蓄意尝试 |
+| deluded | 被欺骗的、受蒙蔽的 | /dɪˈluːdɪd/ | `delude` (v.) = 欺骗。`delude oneself` = 自欺欺人。⚠️ ≠ `diluted`（稀释的） |
 | （待报词） | | | |
 
 ### 长难句
