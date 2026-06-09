@@ -68,6 +68,9 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| tailor | 裁缝 | /ˈteɪlə(r)/ | 特指定制服装的裁缝。`tailor-made` = 量身定制的 |
+| sewed | 缝纫、缝合 | /səʊd/ | `sew` 过去式，也可用 `sewn`。`sew a button` = 缝扣子 |
+| garment | 服装、衣服 | /ˈɡɑːmənt/ | 正式用词。`garment industry` = 服装业。比 `clothes` 更正式 |
 | （待报词） | | | |
 
 ### 错题记录
