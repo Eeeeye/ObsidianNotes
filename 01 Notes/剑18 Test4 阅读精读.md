@@ -26,6 +26,8 @@ tags:
 
 | 词 / 表达 | 含义 | 音标 | 备注 |
 | --- | --- | --- | --- |
+| replicate | 复制、重复 | /ˈreplɪkeɪt/ | = `duplicate`/`reproduce`。名词：`replication`。`replicate the experiment` = 复现实验 |
+| cope with | 应对、处理 | /kəʊp wɪð/ | = `deal with`/`handle`。`cope with stress/pressure` = 应对压力 |
 | （待报词） | | | |
 
 ### 长难句
