@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/剑18 Test1 听力复盘.md",
+                "file": "01 Notes/剑10 Test4 听力复盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "剑18 Test1 听力复盘"
+              "title": "剑10 Test4 听力复盘"
             }
           }
         ]
@@ -128,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/剑18 Test1 听力复盘.md",
+                "file": "01 Notes/剑10 Test4 听力复盘.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "剑18 Test1 听力复盘 的大纲"
+              "title": "剑10 Test4 听力复盘 的大纲"
             }
           },
           {
@@ -198,29 +198,29 @@
   },
   "active": "615830271f4479cc",
   "lastOpenFiles": [
+    "01 Notes/剑17 Test1 听力复盘.md",
+    "01 Notes/剑9 Test2 Passage2 精读.md",
+    "01 Notes/剑9 Test4 Passage3 精读.md",
+    "01 Notes/剑17 Test3 听力复盘.md",
+    "01 Notes/剑17 Test1 阅读精读.md",
+    "01 Notes/Web3 运行原理.md",
+    "01 Notes/AI 基础 Handbook 速通.md",
+    "01 Notes/剑18 Test1 听力复盘.md",
     "01 Notes/剑18 Test4 阅读精读.md",
     "01 Notes/剑18 Test2 听力复盘.md",
     "01 Notes/剑16 Test3 听力复盘.md",
-    "01 Notes/剑18 Test1 听力复盘.md",
     "01 Notes/剑16 Test4 听力复盘.md",
     "01 Notes/剑17 Test3 阅读精读.md",
-    "01 Notes/剑17 Test3 听力复盘.md",
     "01 Notes/剑17 Test2 阅读精读.md",
     "01 Notes/剑16 Test2 听力复盘.md",
-    "01 Notes/剑17 Test1 阅读精读.md",
     "01 Notes/剑16 Test1 阅读精读.md",
-    "01 Notes/剑9 Test4 Passage3 精读.md",
-    "01 Notes/剑9 Test2 Passage2 精读.md",
     "01 Notes/剑10 Test4 听力复盘.md",
-    "01 Notes/AI 基础 Handbook 速通.md",
     "01 Notes/剑16 Test1 听力复盘.md",
     "01 Notes/剑13 Test3 听力复盘.md",
-    "01 Notes/Web3 运行原理.md",
     "01 Notes/AI Agent 核心概念.md",
     "01 Notes/雅思写作.md",
     "01 Notes/剑10 Test3 Part3 听力复盘.md",
     "01 Notes/剑13 Test2 听力复盘.md",
-    "01 Notes/剑17 Test1 听力复盘.md",
     "01 Notes/剑13 Test1 听力复盘.md",
     "references/ielts/c17t1p3_extracted.txt",
     "references/ielts",
