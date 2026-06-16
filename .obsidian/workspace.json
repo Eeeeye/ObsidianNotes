@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
               "state": {
                 "file": "references/ielts/雅思听力答案词汇汇总.md",
                 "followCursor": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -196,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "615830271f4479cc",
+  "active": "b59486d36c81e84c",
   "lastOpenFiles": [
     "01 Notes/雅思词汇积累.md",
     "01 Notes/雅思阅读.md",
