@@ -536,3 +536,102 @@ Having been heated in an evaporator for a period, the juice becomes syrup
 | 开始描述 | commencing with / with regard to / concerning |
 | 承上启下 | compared with |
 | 话题切换 | as for / when it comes to |
+
+---
+
+## 十二、补充内容（视频版 v2 独有）
+
+> 以下内容来自视频版画面提取（PPT板书、图表、范文批注、字典条目），补足纯音频版缺失的视觉信息。
+
+### 评分标准对比
+
+**Task Achievement（ep1, 红笔圈注）**：
+
+| 等级 | 关键描述 |
+|------|---------|
+| **7分** | presents a clear overview, trends, differences or stages / clearly presents and highlights key features / could be more fully extended |
+| **8分** | sufficiently extended and well supported / overview is skilfully paraphrased / clear progression |
+
+**Lexical Resources（ep2, PPT并列）**：
+
+| 等级 | 关键描述 |
+|------|---------|
+| **8分** | 流畅灵活使用丰富词汇，精确表意；熟练使用不常用词汇，选词搭配偶有错误；拼写构词错误极少 |
+| **7分** | 足够词汇，展现灵活性和准确性；使用不常见词汇，对风格搭配有认识；选词拼写偶见错误 |
+
+### 字典条目
+
+**fluctuate** /ˈflʌktʃueɪt/（ep2）：
+- 动词：价格或数量波动、上下变动
+- [+ between]：Prices were volatile, fluctuating between $20 and $40.
+- [+ around]：The number of children fluctuates around 100.
+
+**the lion's share (of sth)**（ep2）：
+- （某物）最大的一份
+- 例：The firm has captured the lion's share of the UK market.
+
+**category** /ˈkætəɡɔːri/（ep4）：
+- noun (pl. categories) — 类别、种类、范畴
+- 例：There are five categories of workers.
+
+**as per sth** — formal（ep6）：
+- 按照某事物
+- 例：The work was carried out as per your instructions.
+
+**percentage of + 复数名词**（ep3, 语法提示）：
+- 如果 a percentage of 后面的名词是复数，动词也要用复数
+- 例：Only a small percentage of people are interested in politics.
+
+### With 独立主格三模板（ep2）
+
+PPT绿色高亮，直接背诵使用：
+
+```
+With its figure fluctuating around ..
+With its figure increasing from A to B
+With its figure remaining stable at ..
+```
+
+### Overview 三条线策略（ep3 饼状图）
+
+针对多类别静态图：
+1. 两个类别的共同最大来源 → The consumption of sodium and saturated fat is mainly from dinner
+2. 一个类别的特殊模式 → Snacks tend to have more added sugar
+3. 共同最小值 → Breakfast contains the lowest percentages of three nutrients
+
+### 范文对比：普通 → 7.5+
+
+**Overview 升级（ep2 墨尔本社交中心）**：
+
+| 版本 | 范文 |
+|------|------|
+| 普通 | The number of participants in table tennis and musical performances showed an upward trend, while the figure for amateur dramatics showed a decline. The number of film club was the largest throughout the period |
+| 7.5+ | The popularity of table tennis and musical performances had grown significantly while amateur dramatics became less attractive. Film club was the most popular activity throughout the period |
+
+**Overview 升级（ep4 澳洲咖啡茶）**：
+
+| 版本 | 范文 |
+|------|------|
+| 普通 | The percentage of people who went to a café for coffee or tea was the highest, except in Adelaide. The percentage of people who bought fresh coffee was the lowest in all cities |
+| 7.5+ | Overall, it is clear that going to a café to have coffee or tea was the most common habit, except in Adelaide, with people generally preferring instant coffee to fresh coffee |
+
+**修改技巧**：数量词 → 流行度词（popularity, common habit, prefer）；while/with 连接 Overview 的 3 个信息点。
+
+### 真实图表数据速览
+
+| 集数 | 图表 | 核心数据特征 |
+|------|------|------------|
+| ep1 | CO2排放4国 | UK最高(~170)→持续降至~120；Sweden最低(~30-40)；红色圈注UK与Sweden差距缩小 |
+| ep2 | 墨尔本5活动 | Film club最高(60-65)；Table tennis 15→50；Amateur dramatics 25→5 |
+| ep3 | USA三餐营养 | Sodium dinner 43%最大；Added sugar snacks 42%最大；Breakfast三种营养都最低 |
+| ep4 | 澳洲5城咖啡 | Café visits 最高(50-65%)；Fresh coffee 最低(30-45%)；Instant coffee 中间 |
+| ep6 | 大学体育中心 | 现在：中央Gym+东西Outdoor courts；未来：加Leisure pool+Sports hall+Café |
+| ep7 | Norbiton工业区 | 现在：4 factory围roundabout；未来：全拆变housing+社区设施 |
+| ep8 | 方便面制造 | 8步：储料仓→混合→面片→面条→面饼→油炸干燥→加料→封装 |
+| ep9 | 甘蔗制糖 | 7步：种植→收割→压榨→石灰过滤→蒸发器加热→离心分离→干燥冷却 |
+
+### 省略性定语从句（PPT绿色高亮）
+
+- `people who played table tennis` → `people playing table tennis`（ep2）
+- `people who took part in...` → `people taking part in...`（ep2）
+- `29% which is provided by lunch` → `29% from lunch`（ep3）
