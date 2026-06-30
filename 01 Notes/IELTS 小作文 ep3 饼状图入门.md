@@ -118,7 +118,7 @@ What percentage + of + 名词 + 动词 + from/in + 类别 + 动词 + 数据
 
 ### P1 — Sodium + Saturated fat（大 + 等）
 
-> ==Commencing with== sodium, Americans consume 43% of it from dinner, as opposed to 29% provided by lunch. The percentages of sodium from snacks and breakfast are the same, with each accounting for 14%.
+> ==Commencing with== sodium, Americans consume 43% of it from dinner, ==as opposed== to 29% provided by lunch. The percentages of sodium from snacks and breakfast are the same, with each accounting for 14%.
 
 > **段落逻辑**：先写 sodium（大→小），再写 saturated fat（大→小）。两个饼图结构相似（dinner最大），用 `similarly` 连接。
 
@@ -130,7 +130,7 @@ What percentage + of + 名词 + 动词 + from/in + 类别 + 动词 + 数据
 
 ### P3 — 补充对比（段间过渡）
 
-> With regard to saturated fat, Dinner contributes to 37% of saturated fat, slightly higher than lunch, at 26%. People eat 21% of it from their snacks and the next is breakfast, at 16%.
+> With regard to saturated fat, Dinner ==contributes to== 37% of saturated fat, slightly higher than lunch, at 26%. People eat 21% of it from their snacks and the next is breakfast, at 16%.
 
 > **段落逻辑**：横向总结 breakfast / lunch / dinner 在不同营养素中的表现，用 `With regard to` / `Concerning` 切换话题。
 
