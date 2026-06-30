@@ -118,13 +118,13 @@ What percentage + of + 名词 + 动词 + from/in + 类别 + 动词 + 数据
 
 ### P1 — Sodium + Saturated fat（大 + 等）
 
-> ==Commencing with== sodium, Americans consume 43% of it from dinner, ==as opposed== to 29% provided by lunch. The percentages of sodium from snacks and breakfast are the same, with each accounting for 14%.
+> ==Commencing with== sodium, Americans consume 43% of it from dinner, ==as opposed== to 29% provided by lunch. The percentages of sodium from snacks and breakfast are the same, ==with each accounting== for 14%.
 
 > **段落逻辑**：先写 sodium（大→小），再写 saturated fat（大→小）。两个饼图结构相似（dinner最大），用 `similarly` 连接。
 
 ### P2 — Added sugar（特殊模式：小 → 倍）
 
-> Concerning added sugar, People eat 42% of added sugar from their snacks, which is almost twice as high as that from dinner, at 23%. Next are lunch and breakfast, at 19% and 16% respectively.
+> ==Concerning== added sugar, People eat 42% of added sugar from their snacks, which is almost ==twice as high as== that from dinner, at 23%. ==Next are== lunch and breakfast, at 19% and 16% respectively.
 
 > **段落逻辑**：强调 added sugar 的特殊性 — snacks 最大而非 dinner。用 `twice as high as` 表达倍数关系。
 
