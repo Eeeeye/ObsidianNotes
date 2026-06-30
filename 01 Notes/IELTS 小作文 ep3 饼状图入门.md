@@ -124,7 +124,7 @@ What percentage + of + 名词 + 动词 + from/in + 类别 + 动词 + 数据
 
 ### P2 — Added sugar（特殊模式：小 → 倍）
 
-> ==Concerning== added sugar, People eat 42% of added sugar from their snacks, which is almost ==twice as high as== that from dinner, at 23%. ==Next are== lunch and breakfast, at 19% and 16% respectively.
+> ==Concerning== added sugar, People eat 42% of added sugar from their snacks, which is almost ==twice as high as== that from dinner, at 23%. Next are lunch and breakfast, at 19% and 16% respectively.
 
 > **段落逻辑**：强调 added sugar 的特殊性 — snacks 最大而非 dinner。用 `twice as high as` 表达倍数关系。
 
@@ -195,13 +195,13 @@ The figures for breakfast and snacks are the same, with each accounting for 14%.
 
 ### 静态图核心表达
 
-| 类别 | 表达 | 例句 |
-|------|------|------|
-| 占比例 | `account for` | Dinner accounts for 43% of sodium intake. |
-| 占比例 | `constitute` | Snacks constitute 42% of added sugar. |
-| 占比例 | `make up` | Lunch makes up 29% of sodium consumption. |
-| 占比例 | `contribute` | Breakfast contributes only 14% of sodium. |
-| 占比例 | `represent` | Dinner represents the largest share. |
+| 类别  | 表达                | 例句                                        |
+| --- | ----------------- | ----------------------------------------- |
+| 占比例 | ==`account for`== | Dinner accounts for 43% of sodium intake. |
+| 占比例 | `constitute`      | Snacks constitute 42% of added sugar.     |
+| 占比例 | `make up`         | Lunch makes up 29% of sodium consumption. |
+| 占比例 | `contribute`      | Breakfast contributes only 14% of sodium. |
+| 占比例 | `represent`       | Dinner represents the largest share.      |
 
 ### 对比与转折
 
