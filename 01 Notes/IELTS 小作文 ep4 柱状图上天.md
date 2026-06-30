@@ -46,10 +46,11 @@ Given is a chart illustrating how Australians' coffee and tea buying and drinkin
 ## Overview 升级
 
 ### 普通版（6分）
-> Overall, going to a café was the most common habit in most cities. People generally preferred instant coffee to fresh coffee.
+- The percentage of people who went to a café for coffee or tea was the highest, except in Adelaide
+- The percentage of people who bought fresh coffee was the lowest in all cities
 
 ### 7.5+ 版
-> Overall, going to a café for coffee or tea was the most common habit among residents in all five cities, with people generally preferring instant coffee to fresh coffee, except in Sydney and Melbourne where the opposite was true.
+> Overall, it is clear that **going to a café** to have coffee or tea was the **most common habit**, except in Adelaide, **with people generally preferring instant coffee to fresh coffee**
 
 > **升级要点：**
 > - 补充 "among residents in all five cities" 使范围明确
@@ -62,7 +63,7 @@ Given is a chart illustrating how Australians' coffee and tea buying and drinkin
 
 ### P1 — Café Visits（最高数据段）
 
-Going to a café for coffee or tea was the most popular choice in all five cities. In Melbourne, approximately 64% of residents did so, closely followed by Hobart at 63% and Sydney at 62%. Brisbane and Adelaide reported lower figures, with nearly 55% and just more than 49% of citizens visiting cafés respectively.
+Commencing with the choice of going to café for coffee or tea, more than 60% of people in Sydney, Melbourne, and Hobart did so in last four weeks. 55% of residents visited cafes in Brisbane and next is Adelaide, at nearly 50%.
 
 > **要点：**
 > - "did so" 替代重复 "went to a café"，避免用词单调
@@ -71,7 +72,7 @@ Going to a café for coffee or tea was the most popular choice in all five citie
 
 ### P2 — Instant Coffee（中间数据段）
 
-With regard to instant coffee, the figures ranged from 45% to 54% across the five cities. Hobart had the highest percentage at 54%, while Brisbane and Adelaide followed with 53% and 50% respectively. Sydney and Melbourne recorded the lowest proportions at 45% and 48%. Ranked last was Sydney, where only 45% of residents bought instant coffee.
+With regard to instant coffee, approximately 54% of people in Hobart bought instant coffee, slightly higher than that figure in Brisbane, at 53%. Next are Adelaide and Melbourne, at 50% and 48% respectively. **Ranked last was Sydney, at only nearly 45%**
 
 > **要点：**
 > - "With regard to" 是高级过渡连接词
@@ -80,7 +81,9 @@ With regard to instant coffee, the figures ranged from 45% to 54% across the fiv
 
 ### P3 — Fresh Coffee（最低数据段 + 对比）
 
-When it comes to fresh coffee, the percentages were generally lower than those for the other two categories. Compared with instant coffee, fresh coffee was less popular in Brisbane, Adelaide and Hobart, with figures of 34%, 34% and 37% respectively. However, in Sydney and Melbourne, the trend was reversed, where 44% and 42% of citizens chose fresh coffee — slightly higher than their instant coffee figures.
+Concerning fresh coffee, approximately 44% of people in Sydney had the habit of buying it, slightly higher than that figure in Melbourne, at 42%. Next is Hobart, at 37% and the percentages in Brisbane and Adelaide were the same, with each accounting for nearly 34%
+
+Compared with instant coffee, fresh coffee was less popular. Approximately 44% of people in Sydney had the habit of buying it, slightly higher than that figure in Melbourne, at 42%. Next is Hobart, at 37% and the percentages in Brisbane and Adelaide are the same, with each accounting for nearly34%
 
 > **要点：**
 > - "When it comes to" 和 "Compared with" 均为高级过渡连接

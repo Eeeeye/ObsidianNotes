@@ -28,19 +28,19 @@ The plans below show the layout of a university's sports centre now, and how it 
 
 ## Introduction
 
-Given are two maps illustrating the current layout of a sports center and the changes that will be introduced.
+Given are two maps illustrating the current layout of a sports center and changes that will be introduced.
 
 > 万能词：**layout**（布局）
 
 结构模板：
 
 ```
-Given are two maps illustrating the current layout of [地点] and the changes that will be introduced.
+Given are two maps illustrating the current layout of [地点] and changes that will be introduced.
 ```
 
 ## Overview（目的 + 细节）
 
-The renovation will enable the sports centre to better cater for the increasing demands of students, with the introduction of new recreational facilities and the expansion of existing ones.
+It is clear that the renovation will enable the sports center to better cater for students and meet their demand for indoor activities, **with the introduction of a shop, a sports hall, and a leisure pool**
 
 > 核心逻辑：renovation → better cater for demands → introduction + expansion
 
@@ -88,21 +88,19 @@ Flanking the gym on both sides are the changing rooms.
 
 ### Paragraph 1 — 现在布局（倒装句描述）
 
-Given are two maps illustrating the current layout of a university sports centre and the changes that will be introduced after redevelopment.
+**Commencing with the current layout of the sports center, in the middle is a rectangular building, to the east and west of which are outdoor courts for outdoor activities.**
 
-**In the middle of** the sports centre is a gym, with a reception located inside it and a swimming pool situated to its south. **To the east and west of** the central area are two outdoor courts, each accompanied by a changing room and a seating area. Overall, the current layout is symmetrical, with facilities evenly distributed along a central axis.
+**Inside the building, at the entrance is the reception area,**
 
 ### Paragraph 2 — 未来变化（As per the redevelopment plan，左→中→右空间顺序）
 
-**As per the redevelopment plan**, significant changes are expected to take place.
+**As per the redevelopment plan, the two outdoor courts will be demolished to make way for the enlargement of the sport center.**
 
-Starting from the **left-hand side**, the original outdoor court will be demolished to make way for a new leisure pool, providing an additional aquatic facility for students. Similarly, the changing room and seating area on this side will be removed.
+A new leisure pool will be introduced on the left-hand side of the centre, next to the original changing room, while on the east of the existing seating areas, a sports hall will be built, with two new dance studios.
 
-In the **central area**, the existing gym will be expanded eastwards, and two new dance studios will be introduced adjacent to it. The original swimming pool and reception will remain unchanged in their current positions.
+The areas in the middle will remain unchanged, except that the gym will be expanded. In the southwest and southeast corners of the center, additional changing rooms will be added to cater for more swimmers and exercisers.
 
-Moving to the **right-hand side**, the original outdoor court, along with the changing room and seating, will be replaced by a sports hall, a café, and a sports shop. These new facilities will significantly enhance the range of services available to students.
-
-Overall, the redevelopment will transform the sports centre into a more comprehensive and modern recreational hub, better able to cater for the growing demands of the university community.
+Similarly, a sports shop and a café will be introduced to serve them.
 
 ---
 

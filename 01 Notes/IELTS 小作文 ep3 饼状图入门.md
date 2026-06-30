@@ -63,7 +63,7 @@ Given are charts showing how...differ in...
 **本题目变形记示范**：
 
 - 原题：`The charts below show the average percentages in typical meals of three types of nutrients`
-- 改写：`Given are three pie charts illustrating how the average percentages of three nutrients differ in typical meals in the United States.`
+- 改写：`Given are charts illustrating what percentage of three nutrients people consume from four different meals`
 
 要点：
 - `show` → `illustrate`
@@ -110,7 +110,7 @@ What percentage + of + 名词 + 动词 + from/in + 类别 + 动词 + 数据
 
 ### 完整范文 Overview
 
-> ==Overall,== it is clear that dinner is the largest source of both sodium and saturated fat, ==whereas== snacks contain the highest proportion of added sugar. Breakfast accounts for the smallest percentage of all three nutrients, ==while== the figures for lunch are relatively moderate across the three categories.
+> ==Overall,== it is clear that the consumption of sodium and saturated fat is mainly from dinner while snacks tend to have more added sugar, with breakfast containing the lowest percentages of three nutrients and being the healthiest meal
 
 ---
 
@@ -118,19 +118,19 @@ What percentage + of + 名词 + 动词 + from/in + 类别 + 动词 + 数据
 
 ### P1 — Sodium + Saturated fat（大 + 等）
 
-> Commencing with sodium intake, the largest percentage comes from dinner at 43%, as opposed to 29% from lunch. The figures for breakfast and snacks are the same, with each accounting for 14%. Similarly, what percentage of saturated fat is consumed in dinner makes up 37%, which is the largest among the four meal types, followed by lunch at 26%. Snacks contribute 21% of saturated fat intake, slightly higher than the 16% recorded for breakfast.
+> Commencing with sodium, Americans consume 43% of it from dinner, as opposed to 29% provided by lunch. The percentages of sodium from snacks and breakfast are the same, with each accounting for 14%.
 
 > **段落逻辑**：先写 sodium（大→小），再写 saturated fat（大→小）。两个饼图结构相似（dinner最大），用 `similarly` 连接。
 
 ### P2 — Added sugar（特殊模式：小 → 倍）
 
-> By contrast, the pattern for added sugar is markedly different. What percentage of added sugar is taken in from snacks constitutes 42%, nearly twice as high as that from dinner at 23%. Lunch accounts for 19% of added sugar consumption, which is slightly higher than the 16% observed for breakfast. This makes snacks the dominant source of added sugar, standing in sharp contrast to the patterns seen with sodium and saturated fat.
+> Concerning added sugar, People eat 42% of added sugar from their snacks, which is almost twice as high as that from dinner, at 23%. Next are lunch and breakfast, at 19% and 16% respectively.
 
 > **段落逻辑**：强调 added sugar 的特殊性 — snacks 最大而非 dinner。用 `twice as high as` 表达倍数关系。
 
 ### P3 — 补充对比（段间过渡）
 
-> With regard to the overall distribution, it is notable that breakfast consistently represents the smallest share across all three nutrients, ranging from 14% to 16%. Lunch, on the other hand, shows a relatively stable pattern, contributing between 19% and 29% of the three nutrients. Concerning dinner, while it is the primary source for sodium and saturated fat, it only accounts for 19% of added sugar intake, which is lower than both snacks and lunch.
+> With regard to saturated fat, Dinner contributes to 37% of saturated fat, slightly higher than lunch, at 26%. People eat 21% of it from their snacks and the next is breakfast, at 16%.
 
 > **段落逻辑**：横向总结 breakfast / lunch / dinner 在不同营养素中的表现，用 `With regard to` / `Concerning` 切换话题。
 

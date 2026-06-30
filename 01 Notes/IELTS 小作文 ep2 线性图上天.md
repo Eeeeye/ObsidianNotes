@@ -114,55 +114,41 @@ The graph below gives information on the numbers of participants for different a
 
 ### Paragraph 1 — Introduction（倒装 + 改写）
 
-> Given is a line graph illustrating the participant numbers for five activities — film club, martial arts, amateur dramatics, table tennis, and musical performances — at a social centre in Melbourne, Australia, over the period from 2000 to 2020.
+> Given is a graph illustrating how the number of participants for different activities changed at one social center in Melbourne, Australia over a 20-year period from 2000 to 2020.
 
 亮点：
 - Given is...倒装开篇
-- 用破折号列举五项活动，结构清晰
-- 完整囊括地点、时间、数据含义
+- how...changed 动态图改写
+- one social center in Melbourne, Australia over a 20-year period（地点+时间段）
 
 ---
 
 ### Paragraph 2 — Body 1（Film club + Martial arts，lion's share 版）
 
-> Commencing with film club, this activity commanded the lion's share of participants for the entirety of the twenty-year span. Opening at approximately 60 members in 2000, its figure fluctuated mildly before peaking at 65 in around 2010 and thereafter levelling off, consistently dwarfing all competing activities by a considerable margin. A similar pattern of stability, albeit at a markedly lower level, was evident in the participation figures for martial arts. The number of members engaged in this pursuit hovered between 35 and 40, exhibiting negligible variation and never falling below 35 throughout the entire period.
+> Commencing with the film club, participants in it accounted for the lion's share, with its number fluctuating between 60 and 65. A similar stable trend can be found in martial arts: approximately 35 people engaged in this activity in 2000, and the number fluctuated around 35 people.
 
 亮点：
 - lion's share = 最大份额（高级表达）
-- Commencing with...开段手法
-- Opening at / peaking at / levelling off 三连分词短语
-- dwarfing all competing activities 生动动词
-- albeit at a markedly lower level 让步状语
-- engaged in = who were engaged in（省略性定语从句再简化）
-- exhibiting negligible variation 分词状语
+- engaged in = who were engaged in（省略性定语从句）
 
 ---
 
-### Paragraph 3 — Body 2（Table tennis vs Amateur dramatics + Although 升级）
+### Paragraph 3 — Body 2（Table tennis + Musical performances + Although 升级）
 
-> Although amateur dramatics initially attracted 25 participants in 2000 — a figure notably higher than the 15 recorded for table tennis — the ensuing decades witnessed a stark reversal of fortunes. Participation in amateur dramatics declined precipitously, plummeting to a mere 5 by 2020, thus making it the least popular activity among the five. Table tennis, meanwhile, underwent a remarkable surge: the number of those playing rose without interruption from 15 to 50, enabling it to surpass martial arts around 2015 and emerge as the second most popular pursuit.
+> With regard to table tennis, although the number of people interested in it remained almost unchanged at 15 over the first decade, it soared to 50 in 2020. Similarly, the popularity of musical performances also grew: Although no one took part in it until 2005, the number of participants had steadily increased to nearly 15 by 2020 since 2005.
 
 亮点：
-- Although...破折号插入对比初值 → 高级句式
-- a stark reversal of fortunes 命运逆转（地道表达）
-- declined precipitously / plummeting to a mere 5
-- the number of those playing → those playing = those who played（省略性定语从句）
-- enabling it to surpass...and emerge as... 结果分词短语
-- without interruption → 不中断地（替代 continuously）
+- Although... 升级对比（前后两段时间变化不一致时使用）
+- 省略性定语从句：people interested in it = people who were interested in it
 
 ---
 
-### Paragraph 4 — By contrast（Musical performances + with 独立主格收尾）
+### Paragraph 4 — By contrast（Amateur dramatics + with 独立主格收尾）
 
-> By contrast, musical performances occupied a unique position in the dataset, having been introduced only in 2005. Starting from a baseline of zero, the number of participants grew at a modest pace, reaching approximately 15 by the end of the period. Nevertheless, with its figure remaining the lowest among all surveyed activities — never exceeding 15 and showing no sign of overtaking amateur dramatics even as the latter declined — musical performances clearly occupied the bottom rung of the popularity ladder.
+> By contrast, fewer people chose amateur dramatics during this period. Although the number of participants slightly increased from 25 to 28 over the first five years, it had steadily declined to only 5 by the end of the period, with this activity being the least popular in 2020.
 
 亮点：
-- occupied a unique position / having been introduced only in 2005（现在分词完成体作原因状语）
-- Starting from a baseline of zero
-- grew at a modest pace
-- with its figure remaining the lowest... 独立主格收尾，数据概括 + 对比
-- showing no sign of overtaking
-- occupied the bottom rung of the popularity ladder 阶梯比喻
+- with this activity being the least popular in 2020（With独立主格收尾）
 
 ---
 

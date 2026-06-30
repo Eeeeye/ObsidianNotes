@@ -70,13 +70,13 @@ ep8 用了 first stage / second stage，ep9 升级为 **initial stage / later st
 
 ### 全文
 
-Given is a diagram illustrating the process by which sugar is manufactured from sugar cane.
+**Given is a diagram illustrating the process by which the sugar is manufactured from sugar cane.**
 
-Overall, there are seven steps in this process, from growing sugar cane to the final sugar product. The initial stage is to collect sugar cane to produce juice, and the later stage is to make sugar from the juice.
+**Overall, there are seven steps from sugar cane to sugar. The initial stage is to collect sugar cane to produce juice, and the later stage is to make sugar.**
 
-**Commencing with the juice producing stage**, sugar cane is first grown for 12 to 18 months. Having matured, the sugar cane is then harvested, either manually or by machine. The harvested sugar cane is subsequently crushed, producing juice. After that, the juice is purified by being passed through a limestone filter. Having been purified, the juice is then heated in an evaporator, where it is transformed into syrup.
+**Commencing with the juice-producing stage, the first step is to plant sugar canes to allow them to grow. Having grown for 12-18 months, they are harvested either by industrial farming machines or by hand. After that, the harvested sugar canes are then sent to a crushing machine, where they are crushed to produce raw sugar cane juice.**
 
-**With regard to the sugar manufacturing stage**, the syrup is placed into a centrifuge, from which sugar crystals are separated. Next comes the drying and cooling process, which turns the crystals into the final sugar product.
+**Next comes the manufacturing stage.** The juice is purified through a limestone filter, which makes it ready for the heating process. Having been heated in an evaporator for a period, the juice becomes syrup, from which the sugar crystals are separated in a centrifuge. The final step is to dry and cool the separated sugar crystals, after which sugar is made.
 
 （160 words）
 

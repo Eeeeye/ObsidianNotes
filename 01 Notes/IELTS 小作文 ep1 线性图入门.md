@@ -65,10 +65,10 @@ Given is a graph illustrating the production of four kinds of vehicles in the Un
 > Commencing with the UK, the figure for it almost stayed unchanged over the first decade at nearly 11 tons, after which it steadily declined to about 9 tons in 2007. Despite this decline, the average carbon dioxide emissions in the UK were still the largest among the four countries throughout the period.
 
 **P2 — Sweden（段内过渡）**：
-> The figure for Sweden increased from 9 tons in 1967 to 10 tons, and then it declined significantly to 7 tons in 1987. Over the next two decades, it slightly decreased to nearly 5 tons.
+> The figure for Sweden increased from 9 tons in 1967 to 10 tons, and then it declined significantly to 7 tons in 1987. Over the next two decades, it slightly decreased to nearly 5 tons. A similar trend can also be found in Sweden. The figure for it increased from 9 tons to 10 tons, after which it steadily declined to about 5 tons in 2007.
 
 **P3 — Italy + Portugal（段间过渡）**：
-> By contrast, the figure for Italy increased from just more than 4 tons in 1967 to more than 6 tons in 1977, and then it grew slightly to nearly 7.5 tons in 1997, outnumbering that for Sweden in 1990. Over the next decade, it had levelled off. Similarly, the figure for Portugal increased from approximately 1.5 tons to 5 tons over the first three decades, after which it remained unchanged, equaling that for Sweden in 2007.
+> By contrast, the figure for Italy increased from just more than 4 tons in 1967 to more than 6 tons in1977, and then it grew slightly to nearly 7.5 tons in 1997, outnumbering that for Sweden in1990. Over the next decade, it had levelled off. Similarly, the figure for Portugal increased from approximately 1.5 tons to 5 tons over the first three decades, after which it remained unchanged, equaling that for Sweden in 2007
 
 ---
 

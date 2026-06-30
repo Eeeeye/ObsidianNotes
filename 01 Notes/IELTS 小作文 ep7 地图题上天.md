@@ -64,31 +64,23 @@ Factories → Housing 是本质变化
 → 核心句：The whole industrial estate will be transformed into a housing estate.
 ```
 
-Overview 模板：
+Overview：
 
-```
-Overall, the whole industrial area is planned to be transformed 
-into a residential estate, with the introduction of various 
-community facilities and improvements to the road network.
-```
+Overall, **as per the future development, this industrial estate will have been transformed into a housing estate, with construction of housing and community facilities. Accordingly, the road conditions will also improve (e.g., side roads and roundabouts)**
 
 ## 完整范文
 
 ### Paragraph 1 — 现在布局（先上后下 + 先中间再道路）
 
-Given are two maps illustrating the current layout of an industrial area in Norbiton and its planned redevelopment.
+Given are two maps illustrating the current layout of a town of Norbiton and what it will look like after development.
 
-At present, **in the northern part of** the area lies a river, beyond which stretches farmland. **In the central area**, a roundabout serves as the focal point, surrounded by a cluster of factories — between four and eight in number — arranged around it. This roundabout is connected to a main road running southwards, which provides access to a town located to the west of the industrial zone.
+At present, in the north of the town, a river runs from west to east, to the north of which is the farmland. In the middle of the industrial area is a roundabout, which connects to a side road and a main road in the south part of the map. Along the roundabout and the side road are eight factories.
 
 ### Paragraph 2 — 未来变化（Facilities + Roads 二分逻辑）
 
-The redevelopment plan proposes a complete transformation of the area.
+**According to the planned future layout, all the factories will be demolished to make way for housing. To meet the demand of this residential district, local amenities will be introduced. Shops and a medical center will be built along the roundbout while a playground and a school are expected to build along the original side road.**
 
-**In terms of facilities**, all existing factories are expected to be demolished and replaced by residential housing, effectively converting the industrial estate into a housing estate. To support the new residential community, a range of amenities will be introduced: a **medical centre**, a **playground**, a **school**, and several **shops** will be constructed around the central roundabout and along the newly extended road network.
-
-**With such development will also come road improvement**. While the original roundabout will be retained as the axis road, a new **mini-roundabout** will be added to the north to facilitate traffic flow within the expanded residential zone. Furthermore, a **bridge** will be built across the river, which brings convenience to residents travelling to and from the northern farmland area, effectively integrating it into the newly developed community.
-
-**Likewise**, the main road to the south is expected to be upgraded to accommodate increased traffic. **Correspondingly**, the connection to the town in the west will be strengthened, ensuring that the new housing estate is well-integrated with the surrounding urban infrastructure.
+**With such development will also come road improvement:** A new mini-roundabout will be introduced to connect the main road and the access road to the town. The existing roundabout, meanwhile, will connect two newly built roads - one residential road and one north-south road. The latter will connect to a new bridge across the river, **which brings convenience to local agricultural activities.**
 
 ---
 

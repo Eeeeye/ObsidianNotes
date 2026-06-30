@@ -67,13 +67,13 @@ and then the second stage is to [包装阶段].
 
 ### 全文
 
-The diagram illustrates the process by which instant noodles are produced.
+**Given is a diagram illustrating the process by which the instant noodles are produced.**
 
-Overall, there are eight steps in the process, from flour to the final instant noodles. The first stage is to make the noodles, and then the second stage is to package them.
+**Overall, it is clear that there are eight steps from flour to final instant noodles. The first stage is to make noodles and then the second stage is to package them.**
 
-**Commencing with the first stage**, flour is pumped from storage silos into a mixer, where it is combined with water and oil. The resulting mixture is then rolled into dough sheets. These sheets are subsequently cut into dough strips, which are then shaped into noodles discs in a mould. The discs are cooked in oil and then left to dry.
+**Commencing with the noodle-making stage**, the first stage is that the flour is sent by cars to storage silos. **The flour is sent to a mixer, where it is mixed with water and oil.** the mixture is made into dough sheets with rollers. The sheets are made in dough strips, after which they are made into noodle discs. Next, the noodle discs are cooked with oil and then dried
 
-**With regard to the second stage**, the dried noodle discs are placed into cups, after which vegetables and spices are added. The final step is that the cups are labelled and sealed, ready for distribution.
+With regard to the noodle-packaging stage, the first stage is that the noodle discs is put into cups and then the vegetable and spices are added to cups. The cup is sent to a machine, where it is labelled and sealed, after which the instant noodle is ready to be sold
 
 （161 words）
 
