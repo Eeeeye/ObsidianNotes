@@ -63,7 +63,7 @@ Given are charts showing how...differ in...
 **本题目变形记示范**：
 
 - 原题：`The charts below show the average percentages in typical meals of three types of nutrients`
-- 改写：`Given are three pie charts illustrating how the average percentages of three nutrients — sodium, saturated fat, and added sugar — differ in typical meals in the United States.`
+- 改写：`Given are three pie charts illustrating how the average percentages of three nutrients differ in typical meals in the United States.`
 
 要点：
 - `show` → `illustrate`
@@ -110,7 +110,7 @@ What percentage + of + 名词 + 动词 + from/in + 类别 + 动词 + 数据
 
 ### 完整范文 Overview
 
-> Overall, it is clear that dinner is the largest source of both sodium and saturated fat, whereas snacks contain the highest proportion of added sugar. Breakfast accounts for the smallest percentage of all three nutrients, while the figures for lunch are relatively moderate across the three categories.
+> ==Overall,== it is clear that dinner is the largest source of both sodium and saturated fat, ==whereas== snacks contain the highest proportion of added sugar. Breakfast accounts for the smallest percentage of all three nutrients, while the figures for lunch are relatively moderate across the three categories.
 
 ---
 
